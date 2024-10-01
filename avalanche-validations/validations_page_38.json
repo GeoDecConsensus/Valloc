@@ -1,0 +1,3202 @@
+{
+  "items": [
+    {
+      "nodeId": "NodeID-7rXi72Jm76kAKUi6BiyJChnAm9xuKrud9",
+      "subnetId": "11111111111111111111111111111111LpoYY",
+      "transactionId": "HNYnJnzLCjDauPVPzhETKkQRpqcBCjRfkiXubZrsq53118LDF",
+      "beneficiaries": [
+        "P-avax1eddlhfzh4jf389v3q6wt4r2uhlrgy3demlanwg"
+      ],
+      "startTime": "2024-09-11T20:47:40.000Z",
+      "endTime": "2024-10-16T13:02:30.000Z",
+      "assetId": "FvwEAhmxKfeiG8SnEvq42hc6whRyY3EFYAvebMqDNDGCgxN5Z",
+      "stake": {
+        "fromSelf": "15440374441026",
+        "fromDelegations": "40119289193215",
+        "total": "55559663634241",
+        "networkShare": 0.0002254298941195127
+      },
+      "rewards": {
+        "fromSelf": "89817881169",
+        "fromDelegations": "22711006639",
+        "total": "112528887808"
+      },
+      "delegations": {
+        "count": 5,
+        "delegationFee": 0.1,
+        "maxYield": 0.0025003147905,
+        "availableDelegationCapacity": "21642208570889",
+        "totalDelegationCapacity": "77201872205130",
+        "grossDelegationReward": "227110066392",
+        "netDelegationReward": "204399059753"
+      },
+      "node": {
+        "avgUptime": 0.9999754285714286,
+        "responsiveness": {
+          "checksCount": 14,
+          "positiveChecksCount": 14
+        },
+        "version": "avalanchego/1.11.11",
+        "ip": "68.132.153.127",
+        "isp": "Verizon",
+        "location": {
+          "city": "Manhattan",
+          "country": "United States"
+        },
+        "uptime": {
+          "avg": 0.9999754285714286,
+          "details": [
+            {
+              "nodeID": "NodeID-FBtCkPRmkfDry8GGpNenBW2fn3fD3qoKn",
+              "uptime": 0.999997,
+              "weight": 15350000000000,
+              "totalWeight": 15350000000000
+            },
+            {
+              "nodeID": "NodeID-PuYX3u6gfLje9bt6fCDFHkSwqaL8VSpv6",
+              "uptime": 0.999995,
+              "weight": 11500000000000,
+              "totalWeight": 11500000000000
+            },
+            {
+              "nodeID": "NodeID-GxUaibkyR88sErviW2WK3ukDJsT3DFpoU",
+              "uptime": 0.999995,
+              "weight": 7069420698201,
+              "totalWeight": 7069420698201
+            },
+            {
+              "nodeID": "NodeID-CY9BmJwkVatHX86Pt3Fkxts1QoKTovyAs",
+              "uptime": 0.999839,
+              "weight": 3000000000000,
+              "totalWeight": 3000000000000
+            },
+            {
+              "nodeID": "NodeID-5uYQ6R4WF7kmGfraM9LtsUJG2CDmh78Lf",
+              "uptime": 0.99992,
+              "weight": 2400000000000,
+              "totalWeight": 2400000000000
+            },
+            {
+              "nodeID": "NodeID-5gcdejFBQ3wMPFpo7qKUKBREJ8w3PRTM1",
+              "uptime": 0.999971,
+              "weight": 2310000000000,
+              "totalWeight": 2310000000000
+            },
+            {
+              "nodeID": "NodeID-ChjgtCzFxwhCYQGsUzGHUUTi9nFYrLsXh",
+              "uptime": 0.9999899999999999,
+              "weight": 2300000000000,
+              "totalWeight": 2300000000000
+            },
+            {
+              "nodeID": "NodeID-D5aUrNtb3vKUBKYpdapiaGEaBTmUz3Jr2",
+              "uptime": 0.999995,
+              "weight": 2300000000000,
+              "totalWeight": 2300000000000
+            },
+            {
+              "nodeID": "NodeID-LFNBojkAbg1az3ys8htBJHmyQ96hYhFzP",
+              "uptime": 1,
+              "weight": 2210000000000,
+              "totalWeight": 2210000000000
+            },
+            {
+              "nodeID": "NodeID-ExJ8FGcRjTGHPBabqkZ3G8NgPsbhQ9EWA",
+              "uptime": 0.999997,
+              "weight": 2000000000000,
+              "totalWeight": 2000000000000
+            },
+            {
+              "nodeID": "NodeID-8Zvnq1815CaYYegXmuyBD5BVtJnurtpC2",
+              "uptime": 0.9999809999999999,
+              "weight": 2000000000000,
+              "totalWeight": 2000000000000
+            },
+            {
+              "nodeID": "NodeID-AHTFPmvMrQBt1hcoGS7HugNCuu15Q5gY6",
+              "uptime": 0.999992,
+              "weight": 2000000000000,
+              "totalWeight": 2000000000000
+            },
+            {
+              "nodeID": "NodeID-Pe5xmD9DhTrSCDykMqFdG8CazG3QyJxos",
+              "uptime": 0.999991,
+              "weight": 0,
+              "totalWeight": 0
+            },
+            {
+              "nodeID": "NodeID-7yBDXjCcqHCnfqC8LfQ1oL9Yyx1se2Rj9",
+              "uptime": 0.999993,
+              "weight": 0,
+              "totalWeight": 0
+            }
+          ]
+        }
+      }
+    },
+    {
+      "nodeId": "NodeID-5yYNsLs1TZoj93f27GD1CBr424tZJVpVh",
+      "subnetId": "11111111111111111111111111111111LpoYY",
+      "transactionId": "HS3uaNe45Lf4GpEXqcL3LgrSi96hEmfqLMvT7MK5KncoEB5wP",
+      "name": "ooNodz.Network",
+      "manager": "ooNodzer",
+      "beneficiaries": [
+        "P-avax10f8305248c0wsfsdempdtpx7lpkc30vwzl9y9q"
+      ],
+      "startTime": "2024-08-21T18:49:44.000Z",
+      "endTime": "2024-10-05T18:49:42.000Z",
+      "assetId": "FvwEAhmxKfeiG8SnEvq42hc6whRyY3EFYAvebMqDNDGCgxN5Z",
+      "stake": {
+        "fromSelf": "2000000000000",
+        "fromDelegations": "6060802648562",
+        "total": "8060802648562",
+        "networkShare": 3.2706207502374544e-05
+      },
+      "rewards": {
+        "fromSelf": "15232478452",
+        "fromDelegations": "637910569",
+        "total": "15870389021"
+      },
+      "delegations": {
+        "count": 28,
+        "delegationFee": 0.02,
+        "maxYield": 0.00097284003866,
+        "availableDelegationCapacity": "1939197351438",
+        "totalDelegationCapacity": "10000000000000",
+        "grossDelegationReward": "31895528452",
+        "netDelegationReward": "31257617883"
+      },
+      "node": {
+        "avgUptime": 0.9999150769230769,
+        "responsiveness": {
+          "checksCount": 13,
+          "positiveChecksCount": 13
+        },
+        "version": "avalanchego/1.11.10",
+        "ip": "37.60.232.131",
+        "isp": "Contabo Gmbh",
+        "location": {
+          "city": "D\u00fcsseldorf",
+          "country": "Germany"
+        },
+        "uptime": {
+          "avg": 0.9999150769230769,
+          "details": [
+            {
+              "nodeID": "NodeID-FBtCkPRmkfDry8GGpNenBW2fn3fD3qoKn",
+              "uptime": 0.9999979999999999,
+              "weight": 15350000000000,
+              "totalWeight": 15350000000000
+            },
+            {
+              "nodeID": "NodeID-PuYX3u6gfLje9bt6fCDFHkSwqaL8VSpv6",
+              "uptime": 0.9999939999999999,
+              "weight": 11500000000000,
+              "totalWeight": 11500000000000
+            },
+            {
+              "nodeID": "NodeID-GxUaibkyR88sErviW2WK3ukDJsT3DFpoU",
+              "uptime": 0.999993,
+              "weight": 7069420698201,
+              "totalWeight": 7069420698201
+            },
+            {
+              "nodeID": "NodeID-CY9BmJwkVatHX86Pt3Fkxts1QoKTovyAs",
+              "uptime": 0.9999899999999999,
+              "weight": 3000000000000,
+              "totalWeight": 3000000000000
+            },
+            {
+              "nodeID": "NodeID-5gcdejFBQ3wMPFpo7qKUKBREJ8w3PRTM1",
+              "uptime": 0.9999899999999999,
+              "weight": 2310000000000,
+              "totalWeight": 2310000000000
+            },
+            {
+              "nodeID": "NodeID-ChjgtCzFxwhCYQGsUzGHUUTi9nFYrLsXh",
+              "uptime": 0.999996,
+              "weight": 2300000000000,
+              "totalWeight": 2300000000000
+            },
+            {
+              "nodeID": "NodeID-D5aUrNtb3vKUBKYpdapiaGEaBTmUz3Jr2",
+              "uptime": 1,
+              "weight": 2300000000000,
+              "totalWeight": 2300000000000
+            },
+            {
+              "nodeID": "NodeID-LFNBojkAbg1az3ys8htBJHmyQ96hYhFzP",
+              "uptime": 0.999989,
+              "weight": 2210000000000,
+              "totalWeight": 2210000000000
+            },
+            {
+              "nodeID": "NodeID-ExJ8FGcRjTGHPBabqkZ3G8NgPsbhQ9EWA",
+              "uptime": 0.9995850000000001,
+              "weight": 2000000000000,
+              "totalWeight": 2000000000000
+            },
+            {
+              "nodeID": "NodeID-8Zvnq1815CaYYegXmuyBD5BVtJnurtpC2",
+              "uptime": 0.9995350000000001,
+              "weight": 2000000000000,
+              "totalWeight": 2000000000000
+            },
+            {
+              "nodeID": "NodeID-AHTFPmvMrQBt1hcoGS7HugNCuu15Q5gY6",
+              "uptime": 0.999842,
+              "weight": 2000000000000,
+              "totalWeight": 2000000000000
+            },
+            {
+              "nodeID": "NodeID-Pe5xmD9DhTrSCDykMqFdG8CazG3QyJxos",
+              "uptime": 0.999993,
+              "weight": 0,
+              "totalWeight": 0
+            },
+            {
+              "nodeID": "NodeID-7yBDXjCcqHCnfqC8LfQ1oL9Yyx1se2Rj9",
+              "uptime": 0.999991,
+              "weight": 0,
+              "totalWeight": 0
+            }
+          ]
+        }
+      },
+      "detail": {
+        "alias": "ooNodz.Network",
+        "manager": "ooNodzer",
+        "icon": "https://cms-cdn.avascan.com/cms2/logo512.5f264c794095.png",
+        "staking_reward_verified": false
+      }
+    },
+    {
+      "nodeId": "NodeID-FZHUwdFr4rndHpmSFXLK9dJwKVcijv4yW",
+      "subnetId": "11111111111111111111111111111111LpoYY",
+      "transactionId": "HaBMATDFfo4gGyGiNexTow6D5zwBpWkgkUKLiBmkgGJJYbxqm",
+      "beneficiaries": [
+        "P-avax1rfza95r2p8gq2c3r5evu2fecqey5je0fucrg2h"
+      ],
+      "startTime": "2024-08-05T03:16:30.000Z",
+      "endTime": "2024-11-05T04:18:14.000Z",
+      "assetId": "FvwEAhmxKfeiG8SnEvq42hc6whRyY3EFYAvebMqDNDGCgxN5Z",
+      "stake": {
+        "fromSelf": "9001000000000",
+        "fromDelegations": "36004000000000",
+        "total": "45005000000000",
+        "networkShare": 0.00018260500012451644
+      },
+      "rewards": {
+        "fromSelf": "144078973921",
+        "fromDelegations": "4346886146",
+        "total": "148425860067"
+      },
+      "delegations": {
+        "count": 621,
+        "delegationFee": 0.02,
+        "maxYield": 0.0059686046532699995,
+        "availableDelegationCapacity": "0",
+        "totalDelegationCapacity": "45005000000000",
+        "grossDelegationReward": "217344307330",
+        "netDelegationReward": "212997421184"
+      },
+      "node": {
+        "avgUptime": 0.9998419999999997,
+        "responsiveness": {
+          "checksCount": 13,
+          "positiveChecksCount": 13
+        },
+        "version": "avalanchego/1.11.10",
+        "ip": "71.162.146.222",
+        "isp": "Verizon",
+        "location": {
+          "city": "Nicetown-Tioga",
+          "country": "United States"
+        },
+        "uptime": {
+          "avg": 0.9998419999999997,
+          "details": [
+            {
+              "nodeID": "NodeID-FBtCkPRmkfDry8GGpNenBW2fn3fD3qoKn",
+              "uptime": 0.999872,
+              "weight": 15350000000000,
+              "totalWeight": 15350000000000
+            },
+            {
+              "nodeID": "NodeID-PuYX3u6gfLje9bt6fCDFHkSwqaL8VSpv6",
+              "uptime": 0.9998739999999999,
+              "weight": 11500000000000,
+              "totalWeight": 11500000000000
+            },
+            {
+              "nodeID": "NodeID-GxUaibkyR88sErviW2WK3ukDJsT3DFpoU",
+              "uptime": 0.999839,
+              "weight": 7069420698201,
+              "totalWeight": 7069420698201
+            },
+            {
+              "nodeID": "NodeID-CY9BmJwkVatHX86Pt3Fkxts1QoKTovyAs",
+              "uptime": 0.999731,
+              "weight": 3000000000000,
+              "totalWeight": 3000000000000
+            },
+            {
+              "nodeID": "NodeID-5gcdejFBQ3wMPFpo7qKUKBREJ8w3PRTM1",
+              "uptime": 0.999662,
+              "weight": 2310000000000,
+              "totalWeight": 2310000000000
+            },
+            {
+              "nodeID": "NodeID-ChjgtCzFxwhCYQGsUzGHUUTi9nFYrLsXh",
+              "uptime": 1,
+              "weight": 2300000000000,
+              "totalWeight": 2300000000000
+            },
+            {
+              "nodeID": "NodeID-D5aUrNtb3vKUBKYpdapiaGEaBTmUz3Jr2",
+              "uptime": 1,
+              "weight": 2300000000000,
+              "totalWeight": 2300000000000
+            },
+            {
+              "nodeID": "NodeID-LFNBojkAbg1az3ys8htBJHmyQ96hYhFzP",
+              "uptime": 0.999995,
+              "weight": 2210000000000,
+              "totalWeight": 2210000000000
+            },
+            {
+              "nodeID": "NodeID-ExJ8FGcRjTGHPBabqkZ3G8NgPsbhQ9EWA",
+              "uptime": 0.999773,
+              "weight": 2000000000000,
+              "totalWeight": 2000000000000
+            },
+            {
+              "nodeID": "NodeID-8Zvnq1815CaYYegXmuyBD5BVtJnurtpC2",
+              "uptime": 0.999757,
+              "weight": 2000000000000,
+              "totalWeight": 2000000000000
+            },
+            {
+              "nodeID": "NodeID-AHTFPmvMrQBt1hcoGS7HugNCuu15Q5gY6",
+              "uptime": 0.9996980000000001,
+              "weight": 2000000000000,
+              "totalWeight": 2000000000000
+            },
+            {
+              "nodeID": "NodeID-Pe5xmD9DhTrSCDykMqFdG8CazG3QyJxos",
+              "uptime": 0.999867,
+              "weight": 0,
+              "totalWeight": 0
+            },
+            {
+              "nodeID": "NodeID-7yBDXjCcqHCnfqC8LfQ1oL9Yyx1se2Rj9",
+              "uptime": 0.9998779999999999,
+              "weight": 0,
+              "totalWeight": 0
+            }
+          ]
+        }
+      }
+    },
+    {
+      "nodeId": "NodeID-NudTZgq7DKGQsY1Gkt1v3ZG7pgaWbbBuj",
+      "subnetId": "11111111111111111111111111111111LpoYY",
+      "transactionId": "HgaReNJnGmNXPGs6mqe9QHUyF4xqPqje9HMqSSkijhbcLXVdi",
+      "beneficiaries": [
+        "P-avax10zae55wtjeehth3svwq745vagnfw0xkcu23x84",
+        "P-avax1u8t8d7zju6rgnhez5lzgkt593654ggu625dgmv"
+      ],
+      "startTime": "2024-07-10T00:11:18.000Z",
+      "endTime": "2024-11-06T00:00:00.000Z",
+      "assetId": "FvwEAhmxKfeiG8SnEvq42hc6whRyY3EFYAvebMqDNDGCgxN5Z",
+      "stake": {
+        "fromSelf": "2000000000000",
+        "fromDelegations": "0",
+        "total": "2000000000000",
+        "networkShare": 8.114876130408463e-06
+      },
+      "rewards": {
+        "fromSelf": "42140348413",
+        "fromDelegations": "0",
+        "total": "42140348413"
+      },
+      "delegations": {
+        "count": 0,
+        "delegationFee": 0.2,
+        "maxYield": 0.004984280184000001,
+        "availableDelegationCapacity": "8000000000000",
+        "totalDelegationCapacity": "10000000000000",
+        "grossDelegationReward": "0",
+        "netDelegationReward": "0"
+      },
+      "node": {
+        "avgUptime": 0.9999106153846153,
+        "responsiveness": {
+          "checksCount": 13,
+          "positiveChecksCount": 13
+        },
+        "version": "avalanchego/1.11.11",
+        "ip": "44.229.204.174",
+        "isp": "amazon.com Inc",
+        "location": {
+          "city": "Boardman",
+          "country": "United States"
+        },
+        "uptime": {
+          "avg": 0.9999106153846153,
+          "details": [
+            {
+              "nodeID": "NodeID-FBtCkPRmkfDry8GGpNenBW2fn3fD3qoKn",
+              "uptime": 0.9999049999999999,
+              "weight": 15350000000000,
+              "totalWeight": 15350000000000
+            },
+            {
+              "nodeID": "NodeID-PuYX3u6gfLje9bt6fCDFHkSwqaL8VSpv6",
+              "uptime": 0.9999049999999999,
+              "weight": 11500000000000,
+              "totalWeight": 11500000000000
+            },
+            {
+              "nodeID": "NodeID-GxUaibkyR88sErviW2WK3ukDJsT3DFpoU",
+              "uptime": 0.999792,
+              "weight": 7069420698201,
+              "totalWeight": 7069420698201
+            },
+            {
+              "nodeID": "NodeID-CY9BmJwkVatHX86Pt3Fkxts1QoKTovyAs",
+              "uptime": 0.9999250000000001,
+              "weight": 3000000000000,
+              "totalWeight": 3000000000000
+            },
+            {
+              "nodeID": "NodeID-5gcdejFBQ3wMPFpo7qKUKBREJ8w3PRTM1",
+              "uptime": 0.999958,
+              "weight": 2310000000000,
+              "totalWeight": 2310000000000
+            },
+            {
+              "nodeID": "NodeID-ChjgtCzFxwhCYQGsUzGHUUTi9nFYrLsXh",
+              "uptime": 0.999964,
+              "weight": 2300000000000,
+              "totalWeight": 2300000000000
+            },
+            {
+              "nodeID": "NodeID-D5aUrNtb3vKUBKYpdapiaGEaBTmUz3Jr2",
+              "uptime": 0.999906,
+              "weight": 2300000000000,
+              "totalWeight": 2300000000000
+            },
+            {
+              "nodeID": "NodeID-LFNBojkAbg1az3ys8htBJHmyQ96hYhFzP",
+              "uptime": 0.9998210000000001,
+              "weight": 2210000000000,
+              "totalWeight": 2210000000000
+            },
+            {
+              "nodeID": "NodeID-ExJ8FGcRjTGHPBabqkZ3G8NgPsbhQ9EWA",
+              "uptime": 0.9999389999999999,
+              "weight": 2000000000000,
+              "totalWeight": 2000000000000
+            },
+            {
+              "nodeID": "NodeID-8Zvnq1815CaYYegXmuyBD5BVtJnurtpC2",
+              "uptime": 0.9999389999999999,
+              "weight": 2000000000000,
+              "totalWeight": 2000000000000
+            },
+            {
+              "nodeID": "NodeID-AHTFPmvMrQBt1hcoGS7HugNCuu15Q5gY6",
+              "uptime": 0.9999429999999999,
+              "weight": 2000000000000,
+              "totalWeight": 2000000000000
+            },
+            {
+              "nodeID": "NodeID-Pe5xmD9DhTrSCDykMqFdG8CazG3QyJxos",
+              "uptime": 0.999935,
+              "weight": 0,
+              "totalWeight": 0
+            },
+            {
+              "nodeID": "NodeID-7yBDXjCcqHCnfqC8LfQ1oL9Yyx1se2Rj9",
+              "uptime": 0.999906,
+              "weight": 0,
+              "totalWeight": 0
+            }
+          ]
+        }
+      }
+    },
+    {
+      "nodeId": "NodeID-2yC7fWX23kGjCd7ytqGzQQcRJf7xaj1N1",
+      "subnetId": "11111111111111111111111111111111LpoYY",
+      "transactionId": "HjZvaCNo5sgyyifT3RFihN4qkSsREAJsuCNPpdgoqA3CUgPAF",
+      "beneficiaries": [
+        "P-avax13k3hykzf23e628ggd5txtgsck6g4hpncevuw2e"
+      ],
+      "startTime": "2024-08-09T08:07:10.000Z",
+      "endTime": "2024-10-18T10:32:44.000Z",
+      "assetId": "FvwEAhmxKfeiG8SnEvq42hc6whRyY3EFYAvebMqDNDGCgxN5Z",
+      "stake": {
+        "fromSelf": "10217175393761",
+        "fromDelegations": "40868701575044",
+        "total": "51085876968805",
+        "networkShare": 0.00020727778180756954
+      },
+      "rewards": {
+        "fromSelf": "123099691924",
+        "fromDelegations": "5822760842",
+        "total": "128922452766"
+      },
+      "delegations": {
+        "count": 547,
+        "delegationFee": 0.02,
+        "maxYield": 0.003033132536,
+        "availableDelegationCapacity": "0",
+        "totalDelegationCapacity": "51085876968805",
+        "grossDelegationReward": "291138042106",
+        "netDelegationReward": "285315281264"
+      },
+      "node": {
+        "avgUptime": 0.9998795384615384,
+        "responsiveness": {
+          "checksCount": 13,
+          "positiveChecksCount": 13
+        },
+        "version": "avalanchego/1.11.7",
+        "ip": "65.109.27.124",
+        "isp": "Hetzner Online Gmbh",
+        "location": {
+          "city": "Helsinki",
+          "country": "Finland"
+        },
+        "uptime": {
+          "avg": 0.9998795384615384,
+          "details": [
+            {
+              "nodeID": "NodeID-FBtCkPRmkfDry8GGpNenBW2fn3fD3qoKn",
+              "uptime": 0.999922,
+              "weight": 15350000000000,
+              "totalWeight": 15350000000000
+            },
+            {
+              "nodeID": "NodeID-PuYX3u6gfLje9bt6fCDFHkSwqaL8VSpv6",
+              "uptime": 0.9999250000000001,
+              "weight": 11500000000000,
+              "totalWeight": 11500000000000
+            },
+            {
+              "nodeID": "NodeID-GxUaibkyR88sErviW2WK3ukDJsT3DFpoU",
+              "uptime": 0.999766,
+              "weight": 7069420698201,
+              "totalWeight": 7069420698201
+            },
+            {
+              "nodeID": "NodeID-CY9BmJwkVatHX86Pt3Fkxts1QoKTovyAs",
+              "uptime": 0.999889,
+              "weight": 3000000000000,
+              "totalWeight": 3000000000000
+            },
+            {
+              "nodeID": "NodeID-5gcdejFBQ3wMPFpo7qKUKBREJ8w3PRTM1",
+              "uptime": 0.9999370000000001,
+              "weight": 2310000000000,
+              "totalWeight": 2310000000000
+            },
+            {
+              "nodeID": "NodeID-ChjgtCzFxwhCYQGsUzGHUUTi9nFYrLsXh",
+              "uptime": 0.9998990000000001,
+              "weight": 2300000000000,
+              "totalWeight": 2300000000000
+            },
+            {
+              "nodeID": "NodeID-D5aUrNtb3vKUBKYpdapiaGEaBTmUz3Jr2",
+              "uptime": 0.9999410000000001,
+              "weight": 2300000000000,
+              "totalWeight": 2300000000000
+            },
+            {
+              "nodeID": "NodeID-LFNBojkAbg1az3ys8htBJHmyQ96hYhFzP",
+              "uptime": 0.9999429999999999,
+              "weight": 2210000000000,
+              "totalWeight": 2210000000000
+            },
+            {
+              "nodeID": "NodeID-ExJ8FGcRjTGHPBabqkZ3G8NgPsbhQ9EWA",
+              "uptime": 0.999693,
+              "weight": 2000000000000,
+              "totalWeight": 2000000000000
+            },
+            {
+              "nodeID": "NodeID-8Zvnq1815CaYYegXmuyBD5BVtJnurtpC2",
+              "uptime": 0.9998009999999999,
+              "weight": 2000000000000,
+              "totalWeight": 2000000000000
+            },
+            {
+              "nodeID": "NodeID-AHTFPmvMrQBt1hcoGS7HugNCuu15Q5gY6",
+              "uptime": 0.999875,
+              "weight": 2000000000000,
+              "totalWeight": 2000000000000
+            },
+            {
+              "nodeID": "NodeID-Pe5xmD9DhTrSCDykMqFdG8CazG3QyJxos",
+              "uptime": 0.999919,
+              "weight": 0,
+              "totalWeight": 0
+            },
+            {
+              "nodeID": "NodeID-7yBDXjCcqHCnfqC8LfQ1oL9Yyx1se2Rj9",
+              "uptime": 0.999924,
+              "weight": 0,
+              "totalWeight": 0
+            }
+          ]
+        }
+      }
+    },
+    {
+      "nodeId": "NodeID-sAyLfHTC8ZQRn5HtfjNKxXDbnZTaJUqa",
+      "subnetId": "11111111111111111111111111111111LpoYY",
+      "transactionId": "HkBuPniigfXYksBRcwt6XUdoZQ8dzaJqNaHFFfkRPnqmJB62k",
+      "name": "Allnodes",
+      "manager": "Allnodes",
+      "beneficiaries": [
+        "P-avax1u4uvq7tg3xrk5xmhn9l873mgn0gvp6926d26ku"
+      ],
+      "startTime": "2024-04-10T20:09:04.000Z",
+      "endTime": "2024-10-10T19:03:48.000Z",
+      "assetId": "FvwEAhmxKfeiG8SnEvq42hc6whRyY3EFYAvebMqDNDGCgxN5Z",
+      "stake": {
+        "fromSelf": "2000000000000",
+        "fromDelegations": "1035703042297",
+        "total": "3035703042297",
+        "networkShare": 1.2317177078472138e-05
+      },
+      "rewards": {
+        "fromSelf": "69829448448",
+        "fromDelegations": "1060690544",
+        "total": "70890138992"
+      },
+      "delegations": {
+        "count": 5,
+        "delegationFee": 0.05,
+        "maxYield": 0.0017304070150749998,
+        "availableDelegationCapacity": "6964296957703",
+        "totalDelegationCapacity": "10000000000000",
+        "grossDelegationReward": "21213810897",
+        "netDelegationReward": "20153120353"
+      },
+      "node": {
+        "avgUptime": 0.999625642857143,
+        "responsiveness": {
+          "checksCount": 14,
+          "positiveChecksCount": 14
+        },
+        "version": "avalanchego/1.11.11",
+        "ip": "134.65.194.65",
+        "isp": "Allnodes Inc",
+        "location": {
+          "city": "Los Angeles",
+          "country": "United States"
+        },
+        "uptime": {
+          "avg": 0.999625642857143,
+          "details": [
+            {
+              "nodeID": "NodeID-FBtCkPRmkfDry8GGpNenBW2fn3fD3qoKn",
+              "uptime": 0.9997929999999999,
+              "weight": 15350000000000,
+              "totalWeight": 15350000000000
+            },
+            {
+              "nodeID": "NodeID-PuYX3u6gfLje9bt6fCDFHkSwqaL8VSpv6",
+              "uptime": 0.999734,
+              "weight": 11500000000000,
+              "totalWeight": 11500000000000
+            },
+            {
+              "nodeID": "NodeID-GxUaibkyR88sErviW2WK3ukDJsT3DFpoU",
+              "uptime": 0.9997469999999999,
+              "weight": 7069420698201,
+              "totalWeight": 7069420698201
+            },
+            {
+              "nodeID": "NodeID-CY9BmJwkVatHX86Pt3Fkxts1QoKTovyAs",
+              "uptime": 0.999723,
+              "weight": 3000000000000,
+              "totalWeight": 3000000000000
+            },
+            {
+              "nodeID": "NodeID-5uYQ6R4WF7kmGfraM9LtsUJG2CDmh78Lf",
+              "uptime": 0.9987600000000001,
+              "weight": 2400000000000,
+              "totalWeight": 2400000000000
+            },
+            {
+              "nodeID": "NodeID-5gcdejFBQ3wMPFpo7qKUKBREJ8w3PRTM1",
+              "uptime": 0.999759,
+              "weight": 2310000000000,
+              "totalWeight": 2310000000000
+            },
+            {
+              "nodeID": "NodeID-ChjgtCzFxwhCYQGsUzGHUUTi9nFYrLsXh",
+              "uptime": 0.9998,
+              "weight": 2300000000000,
+              "totalWeight": 2300000000000
+            },
+            {
+              "nodeID": "NodeID-D5aUrNtb3vKUBKYpdapiaGEaBTmUz3Jr2",
+              "uptime": 0.999749,
+              "weight": 2300000000000,
+              "totalWeight": 2300000000000
+            },
+            {
+              "nodeID": "NodeID-LFNBojkAbg1az3ys8htBJHmyQ96hYhFzP",
+              "uptime": 0.999757,
+              "weight": 2210000000000,
+              "totalWeight": 2210000000000
+            },
+            {
+              "nodeID": "NodeID-ExJ8FGcRjTGHPBabqkZ3G8NgPsbhQ9EWA",
+              "uptime": 0.9994799999999999,
+              "weight": 2000000000000,
+              "totalWeight": 2000000000000
+            },
+            {
+              "nodeID": "NodeID-8Zvnq1815CaYYegXmuyBD5BVtJnurtpC2",
+              "uptime": 0.999376,
+              "weight": 2000000000000,
+              "totalWeight": 2000000000000
+            },
+            {
+              "nodeID": "NodeID-AHTFPmvMrQBt1hcoGS7HugNCuu15Q5gY6",
+              "uptime": 0.9994799999999999,
+              "weight": 2000000000000,
+              "totalWeight": 2000000000000
+            },
+            {
+              "nodeID": "NodeID-Pe5xmD9DhTrSCDykMqFdG8CazG3QyJxos",
+              "uptime": 0.9998009999999999,
+              "weight": 0,
+              "totalWeight": 0
+            },
+            {
+              "nodeID": "NodeID-7yBDXjCcqHCnfqC8LfQ1oL9Yyx1se2Rj9",
+              "uptime": 0.9998,
+              "weight": 0,
+              "totalWeight": 0
+            }
+          ]
+        }
+      },
+      "detail": {
+        "alias": "Allnodes",
+        "manager": "Allnodes",
+        "icon": "https://cms-cdn.avascan.com/cms2/circle_symbol.b556e4e6aafd.svg",
+        "staking_reward_verified": true,
+        "staking_reward_slug": "Allnodes"
+      }
+    },
+    {
+      "nodeId": "NodeID-Ma3Ztm2A48bCVjfiSmoZS5MKNzKVTRN7j",
+      "subnetId": "11111111111111111111111111111111LpoYY",
+      "transactionId": "HoMiZq624WEg9XQzPPmsNYcK834QGnreNtCAViZ6atE4zHVd7",
+      "beneficiaries": [
+        "P-avax1fkfgns0evx02k738nvngj0p048ae50zqhgpw4u",
+        "P-avax1c2ye445ru2xwtw3pu27da29qmgn5rvd76jvhv5"
+      ],
+      "startTime": "2024-08-02T15:51:48.000Z",
+      "endTime": "2024-11-08T01:00:00.000Z",
+      "assetId": "FvwEAhmxKfeiG8SnEvq42hc6whRyY3EFYAvebMqDNDGCgxN5Z",
+      "stake": {
+        "fromSelf": "2000000000000",
+        "fromDelegations": "0",
+        "total": "2000000000000",
+        "networkShare": 8.114876130408463e-06
+      },
+      "rewards": {
+        "fromSelf": "33975069783",
+        "fromDelegations": "0",
+        "total": "33975069783"
+      },
+      "delegations": {
+        "count": 0,
+        "delegationFee": 0.2,
+        "maxYield": 0.0052632102768,
+        "availableDelegationCapacity": "8000000000000",
+        "totalDelegationCapacity": "10000000000000",
+        "grossDelegationReward": "0",
+        "netDelegationReward": "0"
+      },
+      "node": {
+        "avgUptime": 0.999927923076923,
+        "responsiveness": {
+          "checksCount": 13,
+          "positiveChecksCount": 13
+        },
+        "version": "avalanchego/1.11.11",
+        "ip": "172.188.91.72",
+        "isp": "Microsoft Corporation",
+        "location": {
+          "city": "Singapore",
+          "country": "Singapore"
+        },
+        "uptime": {
+          "avg": 0.999927923076923,
+          "details": [
+            {
+              "nodeID": "NodeID-FBtCkPRmkfDry8GGpNenBW2fn3fD3qoKn",
+              "uptime": 0.9999720000000001,
+              "weight": 15350000000000,
+              "totalWeight": 15350000000000
+            },
+            {
+              "nodeID": "NodeID-PuYX3u6gfLje9bt6fCDFHkSwqaL8VSpv6",
+              "uptime": 0.999974,
+              "weight": 11500000000000,
+              "totalWeight": 11500000000000
+            },
+            {
+              "nodeID": "NodeID-GxUaibkyR88sErviW2WK3ukDJsT3DFpoU",
+              "uptime": 0.99997,
+              "weight": 7069420698201,
+              "totalWeight": 7069420698201
+            },
+            {
+              "nodeID": "NodeID-CY9BmJwkVatHX86Pt3Fkxts1QoKTovyAs",
+              "uptime": 0.999373,
+              "weight": 3000000000000,
+              "totalWeight": 3000000000000
+            },
+            {
+              "nodeID": "NodeID-5gcdejFBQ3wMPFpo7qKUKBREJ8w3PRTM1",
+              "uptime": 0.999969,
+              "weight": 2310000000000,
+              "totalWeight": 2310000000000
+            },
+            {
+              "nodeID": "NodeID-ChjgtCzFxwhCYQGsUzGHUUTi9nFYrLsXh",
+              "uptime": 0.9999859999999999,
+              "weight": 2300000000000,
+              "totalWeight": 2300000000000
+            },
+            {
+              "nodeID": "NodeID-D5aUrNtb3vKUBKYpdapiaGEaBTmUz3Jr2",
+              "uptime": 0.999983,
+              "weight": 2300000000000,
+              "totalWeight": 2300000000000
+            },
+            {
+              "nodeID": "NodeID-LFNBojkAbg1az3ys8htBJHmyQ96hYhFzP",
+              "uptime": 0.999988,
+              "weight": 2210000000000,
+              "totalWeight": 2210000000000
+            },
+            {
+              "nodeID": "NodeID-ExJ8FGcRjTGHPBabqkZ3G8NgPsbhQ9EWA",
+              "uptime": 0.999966,
+              "weight": 2000000000000,
+              "totalWeight": 2000000000000
+            },
+            {
+              "nodeID": "NodeID-8Zvnq1815CaYYegXmuyBD5BVtJnurtpC2",
+              "uptime": 0.999968,
+              "weight": 2000000000000,
+              "totalWeight": 2000000000000
+            },
+            {
+              "nodeID": "NodeID-AHTFPmvMrQBt1hcoGS7HugNCuu15Q5gY6",
+              "uptime": 0.999974,
+              "weight": 2000000000000,
+              "totalWeight": 2000000000000
+            },
+            {
+              "nodeID": "NodeID-Pe5xmD9DhTrSCDykMqFdG8CazG3QyJxos",
+              "uptime": 0.999965,
+              "weight": 0,
+              "totalWeight": 0
+            },
+            {
+              "nodeID": "NodeID-7yBDXjCcqHCnfqC8LfQ1oL9Yyx1se2Rj9",
+              "uptime": 0.9999750000000001,
+              "weight": 0,
+              "totalWeight": 0
+            }
+          ]
+        }
+      }
+    },
+    {
+      "nodeId": "NodeID-9zPuYFd3ZizBc4R1oNRvGxsweD4estYTB",
+      "subnetId": "11111111111111111111111111111111LpoYY",
+      "transactionId": "HpJg1fk3u2ExrhykhqmTwTCzj3bjLHDtnUjGL87gwk4c3ixaE",
+      "name": "ooNodz.Network",
+      "manager": "ooNodzer",
+      "beneficiaries": [
+        "P-avax10f8305248c0wsfsdempdtpx7lpkc30vwzl9y9q"
+      ],
+      "startTime": "2024-09-27T19:05:32.000Z",
+      "endTime": "2024-10-12T19:05:30.000Z",
+      "assetId": "FvwEAhmxKfeiG8SnEvq42hc6whRyY3EFYAvebMqDNDGCgxN5Z",
+      "stake": {
+        "fromSelf": "2004979002166",
+        "fromDelegations": "0",
+        "total": "2004979002166",
+        "networkShare": 8.135078123323526e-06
+      },
+      "rewards": {
+        "fromSelf": "4969912667",
+        "fromDelegations": "0",
+        "total": "4969912667"
+      },
+      "delegations": {
+        "count": 0,
+        "delegationFee": 0.02,
+        "maxYield": 0.0021107260736800003,
+        "availableDelegationCapacity": "8019916008664",
+        "totalDelegationCapacity": "10024895010830",
+        "grossDelegationReward": "0",
+        "netDelegationReward": "0"
+      },
+      "node": {
+        "avgUptime": 1,
+        "responsiveness": {
+          "checksCount": 14,
+          "positiveChecksCount": 14
+        },
+        "version": "avalanchego/1.11.10",
+        "ip": "80.93.18.190",
+        "isp": "Digiweb Ltd",
+        "location": {
+          "city": "Dundalk",
+          "country": "Ireland"
+        },
+        "uptime": {
+          "avg": 1,
+          "details": [
+            {
+              "nodeID": "NodeID-FBtCkPRmkfDry8GGpNenBW2fn3fD3qoKn",
+              "uptime": 1,
+              "weight": 15350000000000,
+              "totalWeight": 15350000000000
+            },
+            {
+              "nodeID": "NodeID-PuYX3u6gfLje9bt6fCDFHkSwqaL8VSpv6",
+              "uptime": 1,
+              "weight": 11500000000000,
+              "totalWeight": 11500000000000
+            },
+            {
+              "nodeID": "NodeID-GxUaibkyR88sErviW2WK3ukDJsT3DFpoU",
+              "uptime": 1,
+              "weight": 7069420698201,
+              "totalWeight": 7069420698201
+            },
+            {
+              "nodeID": "NodeID-CY9BmJwkVatHX86Pt3Fkxts1QoKTovyAs",
+              "uptime": 1,
+              "weight": 3000000000000,
+              "totalWeight": 3000000000000
+            },
+            {
+              "nodeID": "NodeID-5uYQ6R4WF7kmGfraM9LtsUJG2CDmh78Lf",
+              "uptime": 1,
+              "weight": 2400000000000,
+              "totalWeight": 2400000000000
+            },
+            {
+              "nodeID": "NodeID-5gcdejFBQ3wMPFpo7qKUKBREJ8w3PRTM1",
+              "uptime": 1,
+              "weight": 2310000000000,
+              "totalWeight": 2310000000000
+            },
+            {
+              "nodeID": "NodeID-ChjgtCzFxwhCYQGsUzGHUUTi9nFYrLsXh",
+              "uptime": 1,
+              "weight": 2300000000000,
+              "totalWeight": 2300000000000
+            },
+            {
+              "nodeID": "NodeID-D5aUrNtb3vKUBKYpdapiaGEaBTmUz3Jr2",
+              "uptime": 1,
+              "weight": 2300000000000,
+              "totalWeight": 2300000000000
+            },
+            {
+              "nodeID": "NodeID-LFNBojkAbg1az3ys8htBJHmyQ96hYhFzP",
+              "uptime": 1,
+              "weight": 2210000000000,
+              "totalWeight": 2210000000000
+            },
+            {
+              "nodeID": "NodeID-ExJ8FGcRjTGHPBabqkZ3G8NgPsbhQ9EWA",
+              "uptime": 1,
+              "weight": 2000000000000,
+              "totalWeight": 2000000000000
+            },
+            {
+              "nodeID": "NodeID-8Zvnq1815CaYYegXmuyBD5BVtJnurtpC2",
+              "uptime": 1,
+              "weight": 2000000000000,
+              "totalWeight": 2000000000000
+            },
+            {
+              "nodeID": "NodeID-AHTFPmvMrQBt1hcoGS7HugNCuu15Q5gY6",
+              "uptime": 1,
+              "weight": 2000000000000,
+              "totalWeight": 2000000000000
+            },
+            {
+              "nodeID": "NodeID-Pe5xmD9DhTrSCDykMqFdG8CazG3QyJxos",
+              "uptime": 1,
+              "weight": 0,
+              "totalWeight": 0
+            },
+            {
+              "nodeID": "NodeID-7yBDXjCcqHCnfqC8LfQ1oL9Yyx1se2Rj9",
+              "uptime": 1,
+              "weight": 0,
+              "totalWeight": 0
+            }
+          ]
+        }
+      },
+      "detail": {
+        "alias": "ooNodz.Network",
+        "manager": "ooNodzer",
+        "icon": "https://cms-cdn.avascan.com/cms2/logo512.5f264c794095.png",
+        "staking_reward_verified": false
+      }
+    },
+    {
+      "nodeId": "NodeID-FJ838vm552ysMKnRFmYH8YCsynDnEeh9Z",
+      "subnetId": "11111111111111111111111111111111LpoYY",
+      "transactionId": "HsNLNteWtVxAiiaporHWjGAF9azB56dedecEk3MknkgFCchsb",
+      "beneficiaries": [
+        "P-avax10f8305248c0wsfsdempdtpx7lpkc30vwzl9y9q"
+      ],
+      "startTime": "2024-09-15T10:04:03.000Z",
+      "endTime": "2024-09-30T10:03:58.000Z",
+      "assetId": "FvwEAhmxKfeiG8SnEvq42hc6whRyY3EFYAvebMqDNDGCgxN5Z",
+      "stake": {
+        "fromSelf": "2004991269216",
+        "fromDelegations": "0",
+        "total": "2004991269216",
+        "networkShare": 8.135127896119143e-06
+      },
+      "rewards": {
+        "fromSelf": "4977145165",
+        "fromDelegations": "0",
+        "total": "4977145165"
+      },
+      "delegations": {
+        "count": 0,
+        "delegationFee": 0.02,
+        "maxYield": 0.00010792722017,
+        "availableDelegationCapacity": "8019965076864",
+        "totalDelegationCapacity": "10024956346080",
+        "grossDelegationReward": "0",
+        "netDelegationReward": "0"
+      },
+      "node": {
+        "avgUptime": 0.999998142857143,
+        "responsiveness": {
+          "checksCount": 14,
+          "positiveChecksCount": 14
+        },
+        "version": "avalanchego/1.11.11",
+        "ip": "164.152.161.46",
+        "isp": "Allnodes Inc",
+        "location": {
+          "city": "Los Angeles",
+          "country": "United States"
+        },
+        "uptime": {
+          "avg": 0.999998142857143,
+          "details": [
+            {
+              "nodeID": "NodeID-FBtCkPRmkfDry8GGpNenBW2fn3fD3qoKn",
+              "uptime": 1,
+              "weight": 15350000000000,
+              "totalWeight": 15350000000000
+            },
+            {
+              "nodeID": "NodeID-PuYX3u6gfLje9bt6fCDFHkSwqaL8VSpv6",
+              "uptime": 1,
+              "weight": 11500000000000,
+              "totalWeight": 11500000000000
+            },
+            {
+              "nodeID": "NodeID-GxUaibkyR88sErviW2WK3ukDJsT3DFpoU",
+              "uptime": 0.999999,
+              "weight": 7069420698201,
+              "totalWeight": 7069420698201
+            },
+            {
+              "nodeID": "NodeID-CY9BmJwkVatHX86Pt3Fkxts1QoKTovyAs",
+              "uptime": 1,
+              "weight": 3000000000000,
+              "totalWeight": 3000000000000
+            },
+            {
+              "nodeID": "NodeID-5uYQ6R4WF7kmGfraM9LtsUJG2CDmh78Lf",
+              "uptime": 1,
+              "weight": 2400000000000,
+              "totalWeight": 2400000000000
+            },
+            {
+              "nodeID": "NodeID-5gcdejFBQ3wMPFpo7qKUKBREJ8w3PRTM1",
+              "uptime": 0.9999760000000001,
+              "weight": 2310000000000,
+              "totalWeight": 2310000000000
+            },
+            {
+              "nodeID": "NodeID-ChjgtCzFxwhCYQGsUzGHUUTi9nFYrLsXh",
+              "uptime": 0.999999,
+              "weight": 2300000000000,
+              "totalWeight": 2300000000000
+            },
+            {
+              "nodeID": "NodeID-D5aUrNtb3vKUBKYpdapiaGEaBTmUz3Jr2",
+              "uptime": 1,
+              "weight": 2300000000000,
+              "totalWeight": 2300000000000
+            },
+            {
+              "nodeID": "NodeID-LFNBojkAbg1az3ys8htBJHmyQ96hYhFzP",
+              "uptime": 1,
+              "weight": 2210000000000,
+              "totalWeight": 2210000000000
+            },
+            {
+              "nodeID": "NodeID-ExJ8FGcRjTGHPBabqkZ3G8NgPsbhQ9EWA",
+              "uptime": 1,
+              "weight": 2000000000000,
+              "totalWeight": 2000000000000
+            },
+            {
+              "nodeID": "NodeID-8Zvnq1815CaYYegXmuyBD5BVtJnurtpC2",
+              "uptime": 1,
+              "weight": 2000000000000,
+              "totalWeight": 2000000000000
+            },
+            {
+              "nodeID": "NodeID-AHTFPmvMrQBt1hcoGS7HugNCuu15Q5gY6",
+              "uptime": 1,
+              "weight": 2000000000000,
+              "totalWeight": 2000000000000
+            },
+            {
+              "nodeID": "NodeID-Pe5xmD9DhTrSCDykMqFdG8CazG3QyJxos",
+              "uptime": 1,
+              "weight": 0,
+              "totalWeight": 0
+            },
+            {
+              "nodeID": "NodeID-7yBDXjCcqHCnfqC8LfQ1oL9Yyx1se2Rj9",
+              "uptime": 1,
+              "weight": 0,
+              "totalWeight": 0
+            }
+          ]
+        }
+      }
+    },
+    {
+      "nodeId": "NodeID-KH9WnxfcrJLod4JWXHxESehVTAqE5DoLy",
+      "subnetId": "11111111111111111111111111111111LpoYY",
+      "transactionId": "HtcZHTyZeQbFGiw968AK4YRauU6EWmjkjZmhKm34CLLNsQqBQ",
+      "beneficiaries": [
+        "P-avax1qde69xd3k7lgf74u3na5xj770ddrt3qwycz2ua",
+        "P-avax1swwud5sz4p0mfaf9wzpx6nvqyxyx4rpzfmq3u7"
+      ],
+      "startTime": "2024-05-22T16:36:35.000Z",
+      "endTime": "2025-05-21T18:00:00.000Z",
+      "assetId": "FvwEAhmxKfeiG8SnEvq42hc6whRyY3EFYAvebMqDNDGCgxN5Z",
+      "stake": {
+        "fromSelf": "972841546924723",
+        "fromDelegations": "1181452138643",
+        "total": "974022999063366",
+        "networkShare": 0.003952037992784086
+      },
+      "rewards": {
+        "fromSelf": "71374416046292",
+        "fromDelegations": "8555470121",
+        "total": "71382971516413"
+      },
+      "delegations": {
+        "count": 6,
+        "delegationFee": 0.2,
+        "maxYield": 0.034616379573600004,
+        "availableDelegationCapacity": "2025977000936634",
+        "totalDelegationCapacity": "4864207734623615",
+        "grossDelegationReward": "42777350608",
+        "netDelegationReward": "34221880487"
+      },
+      "node": {
+        "avgUptime": 0.9998016923076923,
+        "responsiveness": {
+          "checksCount": 13,
+          "positiveChecksCount": 13
+        },
+        "version": "avalanchego/1.11.11",
+        "ip": "35.86.44.1",
+        "isp": "amazon.com Inc",
+        "location": {
+          "city": "Boardman",
+          "country": "United States"
+        },
+        "uptime": {
+          "avg": 0.9998016923076923,
+          "details": [
+            {
+              "nodeID": "NodeID-FBtCkPRmkfDry8GGpNenBW2fn3fD3qoKn",
+              "uptime": 0.999814,
+              "weight": 15350000000000,
+              "totalWeight": 15350000000000
+            },
+            {
+              "nodeID": "NodeID-PuYX3u6gfLje9bt6fCDFHkSwqaL8VSpv6",
+              "uptime": 0.999814,
+              "weight": 11500000000000,
+              "totalWeight": 11500000000000
+            },
+            {
+              "nodeID": "NodeID-GxUaibkyR88sErviW2WK3ukDJsT3DFpoU",
+              "uptime": 0.9996980000000001,
+              "weight": 7069420698201,
+              "totalWeight": 7069420698201
+            },
+            {
+              "nodeID": "NodeID-CY9BmJwkVatHX86Pt3Fkxts1QoKTovyAs",
+              "uptime": 0.999853,
+              "weight": 3000000000000,
+              "totalWeight": 3000000000000
+            },
+            {
+              "nodeID": "NodeID-5gcdejFBQ3wMPFpo7qKUKBREJ8w3PRTM1",
+              "uptime": 0.999884,
+              "weight": 2310000000000,
+              "totalWeight": 2310000000000
+            },
+            {
+              "nodeID": "NodeID-ChjgtCzFxwhCYQGsUzGHUUTi9nFYrLsXh",
+              "uptime": 0.9998779999999999,
+              "weight": 2300000000000,
+              "totalWeight": 2300000000000
+            },
+            {
+              "nodeID": "NodeID-D5aUrNtb3vKUBKYpdapiaGEaBTmUz3Jr2",
+              "uptime": 0.9996269999999999,
+              "weight": 2300000000000,
+              "totalWeight": 2300000000000
+            },
+            {
+              "nodeID": "NodeID-LFNBojkAbg1az3ys8htBJHmyQ96hYhFzP",
+              "uptime": 0.999638,
+              "weight": 2210000000000,
+              "totalWeight": 2210000000000
+            },
+            {
+              "nodeID": "NodeID-ExJ8FGcRjTGHPBabqkZ3G8NgPsbhQ9EWA",
+              "uptime": 0.999844,
+              "weight": 2000000000000,
+              "totalWeight": 2000000000000
+            },
+            {
+              "nodeID": "NodeID-8Zvnq1815CaYYegXmuyBD5BVtJnurtpC2",
+              "uptime": 0.999844,
+              "weight": 2000000000000,
+              "totalWeight": 2000000000000
+            },
+            {
+              "nodeID": "NodeID-AHTFPmvMrQBt1hcoGS7HugNCuu15Q5gY6",
+              "uptime": 0.9998640000000001,
+              "weight": 2000000000000,
+              "totalWeight": 2000000000000
+            },
+            {
+              "nodeID": "NodeID-Pe5xmD9DhTrSCDykMqFdG8CazG3QyJxos",
+              "uptime": 0.999853,
+              "weight": 0,
+              "totalWeight": 0
+            },
+            {
+              "nodeID": "NodeID-7yBDXjCcqHCnfqC8LfQ1oL9Yyx1se2Rj9",
+              "uptime": 0.999811,
+              "weight": 0,
+              "totalWeight": 0
+            }
+          ]
+        }
+      }
+    },
+    {
+      "nodeId": "NodeID-DqE45ELtkEn4hSyU58oukvcPg1Ua5UdzV",
+      "subnetId": "11111111111111111111111111111111LpoYY",
+      "transactionId": "Huumcpgv95vFKZk8GF6Jr2bnynbF4DLpGfgQPnsKH8FZdpvq4",
+      "name": "ooNodz.Network",
+      "manager": "ooNodzer",
+      "beneficiaries": [
+        "P-avax10f8305248c0wsfsdempdtpx7lpkc30vwzl9y9q"
+      ],
+      "startTime": "2024-09-18T01:27:35.000Z",
+      "endTime": "2024-10-03T01:27:30.000Z",
+      "assetId": "FvwEAhmxKfeiG8SnEvq42hc6whRyY3EFYAvebMqDNDGCgxN5Z",
+      "stake": {
+        "fromSelf": "2041108159412",
+        "fromDelegations": "330418149808",
+        "total": "2371526309220",
+        "networkShare": 9.622321119662528e-06
+      },
+      "rewards": {
+        "fromSelf": "5063737892",
+        "fromDelegations": "15296163",
+        "total": "5079034055"
+      },
+      "delegations": {
+        "count": 1,
+        "delegationFee": 0.02,
+        "maxYield": 0.0005331071629799999,
+        "availableDelegationCapacity": "7834014487840",
+        "totalDelegationCapacity": "10205540797060",
+        "grossDelegationReward": "764808193",
+        "netDelegationReward": "749512030"
+      },
+      "node": {
+        "avgUptime": 0.9999931428571428,
+        "responsiveness": {
+          "checksCount": 14,
+          "positiveChecksCount": 14
+        },
+        "version": "avalanchego/1.11.10",
+        "ip": "80.93.18.190",
+        "isp": "Digiweb Ltd",
+        "location": {
+          "city": "Dundalk",
+          "country": "Ireland"
+        },
+        "uptime": {
+          "avg": 0.9999931428571428,
+          "details": [
+            {
+              "nodeID": "NodeID-FBtCkPRmkfDry8GGpNenBW2fn3fD3qoKn",
+              "uptime": 1,
+              "weight": 15350000000000,
+              "totalWeight": 15350000000000
+            },
+            {
+              "nodeID": "NodeID-PuYX3u6gfLje9bt6fCDFHkSwqaL8VSpv6",
+              "uptime": 1,
+              "weight": 11500000000000,
+              "totalWeight": 11500000000000
+            },
+            {
+              "nodeID": "NodeID-GxUaibkyR88sErviW2WK3ukDJsT3DFpoU",
+              "uptime": 1,
+              "weight": 7069420698201,
+              "totalWeight": 7069420698201
+            },
+            {
+              "nodeID": "NodeID-CY9BmJwkVatHX86Pt3Fkxts1QoKTovyAs",
+              "uptime": 1,
+              "weight": 3000000000000,
+              "totalWeight": 3000000000000
+            },
+            {
+              "nodeID": "NodeID-5uYQ6R4WF7kmGfraM9LtsUJG2CDmh78Lf",
+              "uptime": 1,
+              "weight": 2400000000000,
+              "totalWeight": 2400000000000
+            },
+            {
+              "nodeID": "NodeID-5gcdejFBQ3wMPFpo7qKUKBREJ8w3PRTM1",
+              "uptime": 0.99997,
+              "weight": 2310000000000,
+              "totalWeight": 2310000000000
+            },
+            {
+              "nodeID": "NodeID-ChjgtCzFxwhCYQGsUzGHUUTi9nFYrLsXh",
+              "uptime": 0.999934,
+              "weight": 2300000000000,
+              "totalWeight": 2300000000000
+            },
+            {
+              "nodeID": "NodeID-D5aUrNtb3vKUBKYpdapiaGEaBTmUz3Jr2",
+              "uptime": 1,
+              "weight": 2300000000000,
+              "totalWeight": 2300000000000
+            },
+            {
+              "nodeID": "NodeID-LFNBojkAbg1az3ys8htBJHmyQ96hYhFzP",
+              "uptime": 1,
+              "weight": 2210000000000,
+              "totalWeight": 2210000000000
+            },
+            {
+              "nodeID": "NodeID-ExJ8FGcRjTGHPBabqkZ3G8NgPsbhQ9EWA",
+              "uptime": 1,
+              "weight": 2000000000000,
+              "totalWeight": 2000000000000
+            },
+            {
+              "nodeID": "NodeID-8Zvnq1815CaYYegXmuyBD5BVtJnurtpC2",
+              "uptime": 1,
+              "weight": 2000000000000,
+              "totalWeight": 2000000000000
+            },
+            {
+              "nodeID": "NodeID-AHTFPmvMrQBt1hcoGS7HugNCuu15Q5gY6",
+              "uptime": 1,
+              "weight": 2000000000000,
+              "totalWeight": 2000000000000
+            },
+            {
+              "nodeID": "NodeID-Pe5xmD9DhTrSCDykMqFdG8CazG3QyJxos",
+              "uptime": 1,
+              "weight": 0,
+              "totalWeight": 0
+            },
+            {
+              "nodeID": "NodeID-7yBDXjCcqHCnfqC8LfQ1oL9Yyx1se2Rj9",
+              "uptime": 1,
+              "weight": 0,
+              "totalWeight": 0
+            }
+          ]
+        }
+      },
+      "detail": {
+        "alias": "ooNodz.Network",
+        "manager": "ooNodzer",
+        "icon": "https://cms-cdn.avascan.com/cms2/logo512.5f264c794095.png",
+        "staking_reward_verified": false
+      }
+    },
+    {
+      "nodeId": "NodeID-8qkeNyB3cbs7LqzP4AB7rHcrcHLAYVDEs",
+      "subnetId": "11111111111111111111111111111111LpoYY",
+      "transactionId": "Hv8xVwh9qTBfMbaBL8a4M7P6Cq4LdNa3bgEBkCW8sKTVNnGDn",
+      "beneficiaries": [
+        "P-avax19xkrgef0ywlvkxxzlhv9qqwk9gyt7w6k785qu8"
+      ],
+      "startTime": "2024-09-13T14:30:07.000Z",
+      "endTime": "2024-10-13T14:00:08.000Z",
+      "assetId": "FvwEAhmxKfeiG8SnEvq42hc6whRyY3EFYAvebMqDNDGCgxN5Z",
+      "stake": {
+        "fromSelf": "2000000000000",
+        "fromDelegations": "1797000000000",
+        "total": "3797000000000",
+        "networkShare": 1.5406092333580466e-05
+      },
+      "rewards": {
+        "fromSelf": "10029316885",
+        "fromDelegations": "180077011",
+        "total": "10209393896"
+      },
+      "delegations": {
+        "count": 1,
+        "delegationFee": 0.02,
+        "maxYield": 0.0022391507180700002,
+        "availableDelegationCapacity": "6203000000000",
+        "totalDelegationCapacity": "10000000000000",
+        "grossDelegationReward": "9003850596",
+        "netDelegationReward": "8823773585"
+      },
+      "node": {
+        "avgUptime": 0.9998896428571428,
+        "responsiveness": {
+          "checksCount": 14,
+          "positiveChecksCount": 14
+        },
+        "version": "avalanchego/1.11.7",
+        "ip": "35.71.137.143",
+        "isp": "amazon.com Inc",
+        "location": {
+          "city": "Southfield",
+          "country": "United States"
+        },
+        "uptime": {
+          "avg": 0.9998896428571428,
+          "details": [
+            {
+              "nodeID": "NodeID-FBtCkPRmkfDry8GGpNenBW2fn3fD3qoKn",
+              "uptime": 0.999816,
+              "weight": 15350000000000,
+              "totalWeight": 15350000000000
+            },
+            {
+              "nodeID": "NodeID-PuYX3u6gfLje9bt6fCDFHkSwqaL8VSpv6",
+              "uptime": 0.9997799999999999,
+              "weight": 11500000000000,
+              "totalWeight": 11500000000000
+            },
+            {
+              "nodeID": "NodeID-GxUaibkyR88sErviW2WK3ukDJsT3DFpoU",
+              "uptime": 0.9999420000000001,
+              "weight": 7069420698201,
+              "totalWeight": 7069420698201
+            },
+            {
+              "nodeID": "NodeID-CY9BmJwkVatHX86Pt3Fkxts1QoKTovyAs",
+              "uptime": 0.9999769999999999,
+              "weight": 3000000000000,
+              "totalWeight": 3000000000000
+            },
+            {
+              "nodeID": "NodeID-5uYQ6R4WF7kmGfraM9LtsUJG2CDmh78Lf",
+              "uptime": 0.999829,
+              "weight": 2400000000000,
+              "totalWeight": 2400000000000
+            },
+            {
+              "nodeID": "NodeID-5gcdejFBQ3wMPFpo7qKUKBREJ8w3PRTM1",
+              "uptime": 0.999907,
+              "weight": 2310000000000,
+              "totalWeight": 2310000000000
+            },
+            {
+              "nodeID": "NodeID-ChjgtCzFxwhCYQGsUzGHUUTi9nFYrLsXh",
+              "uptime": 0.999912,
+              "weight": 2300000000000,
+              "totalWeight": 2300000000000
+            },
+            {
+              "nodeID": "NodeID-D5aUrNtb3vKUBKYpdapiaGEaBTmUz3Jr2",
+              "uptime": 0.999834,
+              "weight": 2300000000000,
+              "totalWeight": 2300000000000
+            },
+            {
+              "nodeID": "NodeID-LFNBojkAbg1az3ys8htBJHmyQ96hYhFzP",
+              "uptime": 0.999875,
+              "weight": 2210000000000,
+              "totalWeight": 2210000000000
+            },
+            {
+              "nodeID": "NodeID-ExJ8FGcRjTGHPBabqkZ3G8NgPsbhQ9EWA",
+              "uptime": 0.999957,
+              "weight": 2000000000000,
+              "totalWeight": 2000000000000
+            },
+            {
+              "nodeID": "NodeID-8Zvnq1815CaYYegXmuyBD5BVtJnurtpC2",
+              "uptime": 0.999954,
+              "weight": 2000000000000,
+              "totalWeight": 2000000000000
+            },
+            {
+              "nodeID": "NodeID-AHTFPmvMrQBt1hcoGS7HugNCuu15Q5gY6",
+              "uptime": 0.9999420000000001,
+              "weight": 2000000000000,
+              "totalWeight": 2000000000000
+            },
+            {
+              "nodeID": "NodeID-Pe5xmD9DhTrSCDykMqFdG8CazG3QyJxos",
+              "uptime": 0.999952,
+              "weight": 0,
+              "totalWeight": 0
+            },
+            {
+              "nodeID": "NodeID-7yBDXjCcqHCnfqC8LfQ1oL9Yyx1se2Rj9",
+              "uptime": 0.9997780000000001,
+              "weight": 0,
+              "totalWeight": 0
+            }
+          ]
+        }
+      }
+    },
+    {
+      "nodeId": "NodeID-NNyxDSovcVYmXHacSM8aK2pg67oPjkRrE",
+      "subnetId": "11111111111111111111111111111111LpoYY",
+      "transactionId": "HvkTEccEMrGV4ndiqdkcmG4WMYmL9g9PjeEZhYv7DL7iZaXAs",
+      "beneficiaries": [
+        "P-avax16fhf68c2v85nvyc208kwhegm77wqcguwuc6n8t"
+      ],
+      "startTime": "2024-01-25T21:54:52.000Z",
+      "endTime": "2025-01-13T17:03:51.000Z",
+      "assetId": "FvwEAhmxKfeiG8SnEvq42hc6whRyY3EFYAvebMqDNDGCgxN5Z",
+      "stake": {
+        "fromSelf": "75000000000000",
+        "fromDelegations": "299966762994489",
+        "total": "374966762994489",
+        "networkShare": 0.001521404417360253
+      },
+      "rewards": {
+        "fromSelf": "5550414457410",
+        "fromDelegations": "117345901192",
+        "total": "5667760358602"
+      },
+      "delegations": {
+        "count": 2403,
+        "delegationFee": 0.02,
+        "maxYield": 0.01800825816573,
+        "availableDelegationCapacity": "33237005511",
+        "totalDelegationCapacity": "375000000000000",
+        "grossDelegationReward": "5867295059638",
+        "netDelegationReward": "5749949158446"
+      },
+      "node": {
+        "avgUptime": 0.9994027000000001,
+        "responsiveness": {
+          "checksCount": 10,
+          "positiveChecksCount": 10
+        },
+        "version": "avalanchego/1.11.11",
+        "ip": "169.155.47.91",
+        "isp": "Allnodes Inc",
+        "location": {
+          "city": "Los Angeles",
+          "country": "United States"
+        },
+        "uptime": {
+          "avg": 0.9994027000000001,
+          "details": [
+            {
+              "nodeID": "NodeID-FBtCkPRmkfDry8GGpNenBW2fn3fD3qoKn",
+              "uptime": 0.999657,
+              "weight": 15350000000000,
+              "totalWeight": 15350000000000
+            },
+            {
+              "nodeID": "NodeID-PuYX3u6gfLje9bt6fCDFHkSwqaL8VSpv6",
+              "uptime": 0.99967,
+              "weight": 11500000000000,
+              "totalWeight": 11500000000000
+            },
+            {
+              "nodeID": "NodeID-GxUaibkyR88sErviW2WK3ukDJsT3DFpoU",
+              "uptime": 0.9995959999999999,
+              "weight": 7069420698201,
+              "totalWeight": 7069420698201
+            },
+            {
+              "nodeID": "NodeID-5uYQ6R4WF7kmGfraM9LtsUJG2CDmh78Lf",
+              "uptime": 0.999085,
+              "weight": 2400000000000,
+              "totalWeight": 2400000000000
+            },
+            {
+              "nodeID": "NodeID-5gcdejFBQ3wMPFpo7qKUKBREJ8w3PRTM1",
+              "uptime": 0.9996550000000001,
+              "weight": 2310000000000,
+              "totalWeight": 2310000000000
+            },
+            {
+              "nodeID": "NodeID-ChjgtCzFxwhCYQGsUzGHUUTi9nFYrLsXh",
+              "uptime": 0.9997750000000001,
+              "weight": 2300000000000,
+              "totalWeight": 2300000000000
+            },
+            {
+              "nodeID": "NodeID-LFNBojkAbg1az3ys8htBJHmyQ96hYhFzP",
+              "uptime": 0.999148,
+              "weight": 2210000000000,
+              "totalWeight": 2210000000000
+            },
+            {
+              "nodeID": "NodeID-8Zvnq1815CaYYegXmuyBD5BVtJnurtpC2",
+              "uptime": 0.998935,
+              "weight": 2000000000000,
+              "totalWeight": 2000000000000
+            },
+            {
+              "nodeID": "NodeID-AHTFPmvMrQBt1hcoGS7HugNCuu15Q5gY6",
+              "uptime": 0.9994320000000001,
+              "weight": 2000000000000,
+              "totalWeight": 2000000000000
+            },
+            {
+              "nodeID": "NodeID-7yBDXjCcqHCnfqC8LfQ1oL9Yyx1se2Rj9",
+              "uptime": 0.9990739999999999,
+              "weight": 0,
+              "totalWeight": 0
+            }
+          ]
+        }
+      }
+    },
+    {
+      "nodeId": "NodeID-KaW6hawLbUkTEmD7noJnQNvoyMnyysyLL",
+      "subnetId": "11111111111111111111111111111111LpoYY",
+      "transactionId": "J32KeiaSos9HV7ApDcNtuXpjQRcD5kRuHgCWZyZjN6cr9fk3p",
+      "beneficiaries": [
+        "P-avax1m9swqgax2psh2nu4gassfgjtj0xrars02g83x3"
+      ],
+      "startTime": "2024-07-14T01:18:32.000Z",
+      "endTime": "2024-11-06T21:04:45.000Z",
+      "assetId": "FvwEAhmxKfeiG8SnEvq42hc6whRyY3EFYAvebMqDNDGCgxN5Z",
+      "stake": {
+        "fromSelf": "1504558000000000",
+        "fromDelegations": "69733718821299",
+        "total": "1574291718821299",
+        "networkShare": 0.006387591145681335
+      },
+      "rewards": {
+        "fromSelf": "30795240825079",
+        "fromDelegations": "31746463680",
+        "total": "30826987288759"
+      },
+      "delegations": {
+        "count": 16,
+        "delegationFee": 0.045,
+        "maxYield": 0.00609313807768,
+        "availableDelegationCapacity": "1425708281178701",
+        "totalDelegationCapacity": "7522790000000000",
+        "grossDelegationReward": "705476970684",
+        "netDelegationReward": "673730507004"
+      },
+      "node": {
+        "avgUptime": 0.9999353846153848,
+        "responsiveness": {
+          "checksCount": 13,
+          "positiveChecksCount": 13
+        },
+        "version": "avalanchego/1.11.9",
+        "ip": "37.27.124.79",
+        "isp": "Hetzner Online Gmbh",
+        "location": {
+          "city": "Helsinki",
+          "country": "Finland"
+        },
+        "uptime": {
+          "avg": 0.9999353846153848,
+          "details": [
+            {
+              "nodeID": "NodeID-FBtCkPRmkfDry8GGpNenBW2fn3fD3qoKn",
+              "uptime": 1,
+              "weight": 15350000000000,
+              "totalWeight": 15350000000000
+            },
+            {
+              "nodeID": "NodeID-PuYX3u6gfLje9bt6fCDFHkSwqaL8VSpv6",
+              "uptime": 1,
+              "weight": 11500000000000,
+              "totalWeight": 11500000000000
+            },
+            {
+              "nodeID": "NodeID-GxUaibkyR88sErviW2WK3ukDJsT3DFpoU",
+              "uptime": 1,
+              "weight": 7069420698201,
+              "totalWeight": 7069420698201
+            },
+            {
+              "nodeID": "NodeID-CY9BmJwkVatHX86Pt3Fkxts1QoKTovyAs",
+              "uptime": 0.9998009999999999,
+              "weight": 3000000000000,
+              "totalWeight": 3000000000000
+            },
+            {
+              "nodeID": "NodeID-5gcdejFBQ3wMPFpo7qKUKBREJ8w3PRTM1",
+              "uptime": 0.999988,
+              "weight": 2310000000000,
+              "totalWeight": 2310000000000
+            },
+            {
+              "nodeID": "NodeID-ChjgtCzFxwhCYQGsUzGHUUTi9nFYrLsXh",
+              "uptime": 0.999973,
+              "weight": 2300000000000,
+              "totalWeight": 2300000000000
+            },
+            {
+              "nodeID": "NodeID-D5aUrNtb3vKUBKYpdapiaGEaBTmUz3Jr2",
+              "uptime": 1,
+              "weight": 2300000000000,
+              "totalWeight": 2300000000000
+            },
+            {
+              "nodeID": "NodeID-LFNBojkAbg1az3ys8htBJHmyQ96hYhFzP",
+              "uptime": 1,
+              "weight": 2210000000000,
+              "totalWeight": 2210000000000
+            },
+            {
+              "nodeID": "NodeID-ExJ8FGcRjTGHPBabqkZ3G8NgPsbhQ9EWA",
+              "uptime": 0.999769,
+              "weight": 2000000000000,
+              "totalWeight": 2000000000000
+            },
+            {
+              "nodeID": "NodeID-8Zvnq1815CaYYegXmuyBD5BVtJnurtpC2",
+              "uptime": 0.999756,
+              "weight": 2000000000000,
+              "totalWeight": 2000000000000
+            },
+            {
+              "nodeID": "NodeID-AHTFPmvMrQBt1hcoGS7HugNCuu15Q5gY6",
+              "uptime": 0.999876,
+              "weight": 2000000000000,
+              "totalWeight": 2000000000000
+            },
+            {
+              "nodeID": "NodeID-Pe5xmD9DhTrSCDykMqFdG8CazG3QyJxos",
+              "uptime": 0.999997,
+              "weight": 0,
+              "totalWeight": 0
+            },
+            {
+              "nodeID": "NodeID-7yBDXjCcqHCnfqC8LfQ1oL9Yyx1se2Rj9",
+              "uptime": 1,
+              "weight": 0,
+              "totalWeight": 0
+            }
+          ]
+        }
+      }
+    },
+    {
+      "nodeId": "NodeID-LvKMfPzfWT1VfAPLef6denZ8hTwSAFMGY",
+      "subnetId": "11111111111111111111111111111111LpoYY",
+      "transactionId": "J82p7fjMLAriVi2RHgfWnht75kzFoXVgX66Kc8mdEyHDzb4GW",
+      "name": "087",
+      "manager": "(Genesis Entities)",
+      "beneficiaries": [
+        "P-avax1fkyrz8zwkgc2jl78qepzk4plq5cl9gvg5jnyjf",
+        "P-avax19rd6g8qt598n2lntw4k28hfgkgp84jjhsgeuth"
+      ],
+      "startTime": "2024-07-05T20:15:09.000Z",
+      "endTime": "2025-02-01T00:00:00.000Z",
+      "assetId": "FvwEAhmxKfeiG8SnEvq42hc6whRyY3EFYAvebMqDNDGCgxN5Z",
+      "stake": {
+        "fromSelf": "1354141760000000",
+        "fromDelegations": "0",
+        "total": "1354141760000000",
+        "networkShare": 0.005494346322706653
+      },
+      "rewards": {
+        "fromSelf": "52811815244482",
+        "fromDelegations": "0",
+        "total": "52811815244482"
+      },
+      "delegations": {
+        "count": 0,
+        "delegationFee": 0.2,
+        "maxYield": 0.017401160536400003,
+        "availableDelegationCapacity": "1645858240000000",
+        "totalDelegationCapacity": "6770708800000000",
+        "grossDelegationReward": "0",
+        "netDelegationReward": "0"
+      },
+      "node": {
+        "avgUptime": 0.9997665384615382,
+        "responsiveness": {
+          "checksCount": 13,
+          "positiveChecksCount": 13
+        },
+        "version": "avalanchego/1.11.11",
+        "ip": "16.163.15.11",
+        "isp": "amazon.com Inc",
+        "location": {
+          "city": "Aberdeen",
+          "country": "Hong Kong SAR China"
+        },
+        "uptime": {
+          "avg": 0.9997665384615382,
+          "details": [
+            {
+              "nodeID": "NodeID-FBtCkPRmkfDry8GGpNenBW2fn3fD3qoKn",
+              "uptime": 0.9994620000000001,
+              "weight": 15350000000000,
+              "totalWeight": 15350000000000
+            },
+            {
+              "nodeID": "NodeID-PuYX3u6gfLje9bt6fCDFHkSwqaL8VSpv6",
+              "uptime": 0.9997280000000001,
+              "weight": 11500000000000,
+              "totalWeight": 11500000000000
+            },
+            {
+              "nodeID": "NodeID-GxUaibkyR88sErviW2WK3ukDJsT3DFpoU",
+              "uptime": 0.999777,
+              "weight": 7069420698201,
+              "totalWeight": 7069420698201
+            },
+            {
+              "nodeID": "NodeID-CY9BmJwkVatHX86Pt3Fkxts1QoKTovyAs",
+              "uptime": 0.9997119999999999,
+              "weight": 3000000000000,
+              "totalWeight": 3000000000000
+            },
+            {
+              "nodeID": "NodeID-5gcdejFBQ3wMPFpo7qKUKBREJ8w3PRTM1",
+              "uptime": 0.999877,
+              "weight": 2310000000000,
+              "totalWeight": 2310000000000
+            },
+            {
+              "nodeID": "NodeID-ChjgtCzFxwhCYQGsUzGHUUTi9nFYrLsXh",
+              "uptime": 0.999926,
+              "weight": 2300000000000,
+              "totalWeight": 2300000000000
+            },
+            {
+              "nodeID": "NodeID-D5aUrNtb3vKUBKYpdapiaGEaBTmUz3Jr2",
+              "uptime": 0.999855,
+              "weight": 2300000000000,
+              "totalWeight": 2300000000000
+            },
+            {
+              "nodeID": "NodeID-LFNBojkAbg1az3ys8htBJHmyQ96hYhFzP",
+              "uptime": 0.999719,
+              "weight": 2210000000000,
+              "totalWeight": 2210000000000
+            },
+            {
+              "nodeID": "NodeID-ExJ8FGcRjTGHPBabqkZ3G8NgPsbhQ9EWA",
+              "uptime": 0.9997419999999999,
+              "weight": 2000000000000,
+              "totalWeight": 2000000000000
+            },
+            {
+              "nodeID": "NodeID-8Zvnq1815CaYYegXmuyBD5BVtJnurtpC2",
+              "uptime": 0.999804,
+              "weight": 2000000000000,
+              "totalWeight": 2000000000000
+            },
+            {
+              "nodeID": "NodeID-AHTFPmvMrQBt1hcoGS7HugNCuu15Q5gY6",
+              "uptime": 0.9997450000000001,
+              "weight": 2000000000000,
+              "totalWeight": 2000000000000
+            },
+            {
+              "nodeID": "NodeID-Pe5xmD9DhTrSCDykMqFdG8CazG3QyJxos",
+              "uptime": 0.999914,
+              "weight": 0,
+              "totalWeight": 0
+            },
+            {
+              "nodeID": "NodeID-7yBDXjCcqHCnfqC8LfQ1oL9Yyx1se2Rj9",
+              "uptime": 0.9997039999999999,
+              "weight": 0,
+              "totalWeight": 0
+            }
+          ]
+        }
+      },
+      "detail": {
+        "alias": "087",
+        "manager": "(Genesis Entities)",
+        "icon": "https://cms-cdn.avascan.com/undefined/undefined",
+        "checkmark": false,
+        "staking_reward_verified": false
+      }
+    },
+    {
+      "nodeId": "NodeID-5qr8okF4mnAB2JhAvaJuwqMGXN3gi9QXD",
+      "subnetId": "11111111111111111111111111111111LpoYY",
+      "transactionId": "JAWLhX7W3MNq3mfAx9oKcz9yyUWft8prDvGAbJQ1CzJCnUFFx",
+      "name": "Fluffy Mink",
+      "manager": "Allnodes",
+      "beneficiaries": [
+        "P-avax1v6deyt8xpu9epwldjzxh5zkynu2yr856xae3tx"
+      ],
+      "startTime": "2023-12-28T06:23:38.000Z",
+      "endTime": "2024-12-19T15:05:47.000Z",
+      "assetId": "FvwEAhmxKfeiG8SnEvq42hc6whRyY3EFYAvebMqDNDGCgxN5Z",
+      "stake": {
+        "fromSelf": "4000000000000",
+        "fromDelegations": "15999342992361",
+        "total": "19999342992361",
+        "networkShare": 8.114609553628102e-05
+      },
+      "rewards": {
+        "fromSelf": "302298584545",
+        "fromDelegations": "5340750103",
+        "total": "307639334648"
+      },
+      "delegations": {
+        "count": 18,
+        "delegationFee": 0.02,
+        "maxYield": 0.01356710116881,
+        "availableDelegationCapacity": "657007639",
+        "totalDelegationCapacity": "20000000000000",
+        "grossDelegationReward": "267037505197",
+        "netDelegationReward": "261696755094"
+      },
+      "node": {
+        "avgUptime": 0.9995750000000001,
+        "responsiveness": {
+          "checksCount": 8,
+          "positiveChecksCount": 8
+        },
+        "version": "avalanchego/1.11.11",
+        "ip": "134.65.194.232",
+        "isp": "Allnodes Inc",
+        "location": {
+          "city": "Los Angeles",
+          "country": "United States"
+        },
+        "uptime": {
+          "avg": 0.9995750000000001,
+          "details": [
+            {
+              "nodeID": "NodeID-FBtCkPRmkfDry8GGpNenBW2fn3fD3qoKn",
+              "uptime": 0.9997539999999999,
+              "weight": 15350000000000,
+              "totalWeight": 15350000000000
+            },
+            {
+              "nodeID": "NodeID-PuYX3u6gfLje9bt6fCDFHkSwqaL8VSpv6",
+              "uptime": 0.999752,
+              "weight": 11500000000000,
+              "totalWeight": 11500000000000
+            },
+            {
+              "nodeID": "NodeID-GxUaibkyR88sErviW2WK3ukDJsT3DFpoU",
+              "uptime": 0.9997029999999999,
+              "weight": 7069420698201,
+              "totalWeight": 7069420698201
+            },
+            {
+              "nodeID": "NodeID-5uYQ6R4WF7kmGfraM9LtsUJG2CDmh78Lf",
+              "uptime": 0.999243,
+              "weight": 2400000000000,
+              "totalWeight": 2400000000000
+            },
+            {
+              "nodeID": "NodeID-5gcdejFBQ3wMPFpo7qKUKBREJ8w3PRTM1",
+              "uptime": 0.9997020000000001,
+              "weight": 2310000000000,
+              "totalWeight": 2310000000000
+            },
+            {
+              "nodeID": "NodeID-ChjgtCzFxwhCYQGsUzGHUUTi9nFYrLsXh",
+              "uptime": 0.9996339999999999,
+              "weight": 2300000000000,
+              "totalWeight": 2300000000000
+            },
+            {
+              "nodeID": "NodeID-AHTFPmvMrQBt1hcoGS7HugNCuu15Q5gY6",
+              "uptime": 0.9995860000000001,
+              "weight": 2000000000000,
+              "totalWeight": 2000000000000
+            },
+            {
+              "nodeID": "NodeID-7yBDXjCcqHCnfqC8LfQ1oL9Yyx1se2Rj9",
+              "uptime": 0.9992260000000001,
+              "weight": 0,
+              "totalWeight": 0
+            }
+          ]
+        }
+      },
+      "detail": {
+        "alias": "Fluffy Mink",
+        "manager": "Allnodes",
+        "url": "https://www.allnodes.com",
+        "icon": "https://cms-cdn.avascan.com/cms2/allnodes2.2dd021764975.svg",
+        "checkmark": false,
+        "staking_reward_verified": false
+      }
+    },
+    {
+      "nodeId": "NodeID-6FWuMoDyCe1gsmeQj2RsGBmYv1hoGUbzs",
+      "subnetId": "11111111111111111111111111111111LpoYY",
+      "transactionId": "JMmrCBtN4yyzfbVUhDbyPZb9Fg82qvAhXqRdsNNqnP2HXhk9P",
+      "beneficiaries": [
+        "P-avax176v8cs4cxzsrmtpxgwcz7r2hfnt0ygsva2y3ya"
+      ],
+      "startTime": "2024-08-01T09:07:07.000Z",
+      "endTime": "2024-11-01T10:08:58.000Z",
+      "assetId": "FvwEAhmxKfeiG8SnEvq42hc6whRyY3EFYAvebMqDNDGCgxN5Z",
+      "stake": {
+        "fromSelf": "22757370852199",
+        "fromDelegations": "90896357983548",
+        "total": "113653728835747",
+        "networkShare": 0.00046114296563055967
+      },
+      "rewards": {
+        "fromSelf": "364631383489",
+        "fromDelegations": "12070779515",
+        "total": "376702163004"
+      },
+      "delegations": {
+        "count": 1008,
+        "delegationFee": 0.02,
+        "maxYield": 0.00534239471297,
+        "availableDelegationCapacity": "133125425248",
+        "totalDelegationCapacity": "113786854260995",
+        "grossDelegationReward": "603538975765",
+        "netDelegationReward": "591468196250"
+      },
+      "node": {
+        "avgUptime": 0.9639874545454546,
+        "responsiveness": {
+          "checksCount": 11,
+          "positiveChecksCount": 11
+        },
+        "version": "avalanchego/1.11.7",
+        "ip": "212.51.142.37",
+        "isp": "init7 Switzerland Ltd",
+        "location": {
+          "city": "Winterthur",
+          "country": "Switzerland"
+        },
+        "uptime": {
+          "avg": 0.9639874545454546,
+          "details": [
+            {
+              "nodeID": "NodeID-FBtCkPRmkfDry8GGpNenBW2fn3fD3qoKn",
+              "uptime": 0.963751,
+              "weight": 15350000000000,
+              "totalWeight": 15350000000000
+            },
+            {
+              "nodeID": "NodeID-PuYX3u6gfLje9bt6fCDFHkSwqaL8VSpv6",
+              "uptime": 0.963725,
+              "weight": 11500000000000,
+              "totalWeight": 11500000000000
+            },
+            {
+              "nodeID": "NodeID-GxUaibkyR88sErviW2WK3ukDJsT3DFpoU",
+              "uptime": 0.963805,
+              "weight": 7069420698201,
+              "totalWeight": 7069420698201
+            },
+            {
+              "nodeID": "NodeID-CY9BmJwkVatHX86Pt3Fkxts1QoKTovyAs",
+              "uptime": 0.963822,
+              "weight": 3000000000000,
+              "totalWeight": 3000000000000
+            },
+            {
+              "nodeID": "NodeID-ChjgtCzFxwhCYQGsUzGHUUTi9nFYrLsXh",
+              "uptime": 0.964871,
+              "weight": 2300000000000,
+              "totalWeight": 2300000000000
+            },
+            {
+              "nodeID": "NodeID-LFNBojkAbg1az3ys8htBJHmyQ96hYhFzP",
+              "uptime": 0.964743,
+              "weight": 2210000000000,
+              "totalWeight": 2210000000000
+            },
+            {
+              "nodeID": "NodeID-ExJ8FGcRjTGHPBabqkZ3G8NgPsbhQ9EWA",
+              "uptime": 0.963823,
+              "weight": 2000000000000,
+              "totalWeight": 2000000000000
+            },
+            {
+              "nodeID": "NodeID-8Zvnq1815CaYYegXmuyBD5BVtJnurtpC2",
+              "uptime": 0.9638840000000001,
+              "weight": 2000000000000,
+              "totalWeight": 2000000000000
+            },
+            {
+              "nodeID": "NodeID-AHTFPmvMrQBt1hcoGS7HugNCuu15Q5gY6",
+              "uptime": 0.963794,
+              "weight": 2000000000000,
+              "totalWeight": 2000000000000
+            },
+            {
+              "nodeID": "NodeID-Pe5xmD9DhTrSCDykMqFdG8CazG3QyJxos",
+              "uptime": 0.963835,
+              "weight": 0,
+              "totalWeight": 0
+            },
+            {
+              "nodeID": "NodeID-7yBDXjCcqHCnfqC8LfQ1oL9Yyx1se2Rj9",
+              "uptime": 0.9638089999999999,
+              "weight": 0,
+              "totalWeight": 0
+            }
+          ]
+        }
+      }
+    },
+    {
+      "nodeId": "NodeID-3Zbddv2qkn6gWAfd12ysNN7N9EsDTjc9v",
+      "subnetId": "11111111111111111111111111111111LpoYY",
+      "transactionId": "JPWuNLHV81WShu1iJbC8qvjD5mCNrNvyA3t2zyzfbrM4yGmbe",
+      "beneficiaries": [
+        "P-avax1qvqzt7qg852kq3qrcszuynl8gjv8czu2w6c4yh"
+      ],
+      "startTime": "2023-11-18T13:31:49.000Z",
+      "endTime": "2024-10-01T03:59:06.000Z",
+      "assetId": "FvwEAhmxKfeiG8SnEvq42hc6whRyY3EFYAvebMqDNDGCgxN5Z",
+      "stake": {
+        "fromSelf": "2002730000000",
+        "fromDelegations": "303397733562",
+        "total": "2306127733562",
+        "networkShare": 9.35697044937762e-06
+      },
+      "rewards": {
+        "fromSelf": "133521803350",
+        "fromDelegations": "347617181",
+        "total": "133869420531"
+      },
+      "delegations": {
+        "count": 7,
+        "delegationFee": 0.02,
+        "maxYield": 0.00022798609848,
+        "availableDelegationCapacity": "7707522266438",
+        "totalDelegationCapacity": "10013650000000",
+        "grossDelegationReward": "17380859081",
+        "netDelegationReward": "17033241900"
+      },
+      "node": {
+        "avgUptime": 0.980137875,
+        "responsiveness": {
+          "checksCount": 8,
+          "positiveChecksCount": 8
+        },
+        "version": "avalanchego/1.11.8",
+        "ip": "65.43.222.106",
+        "isp": "Att Services Inc",
+        "location": {
+          "city": "Fort Lauderdale",
+          "country": "United States"
+        },
+        "uptime": {
+          "avg": 0.980137875,
+          "details": [
+            {
+              "nodeID": "NodeID-FBtCkPRmkfDry8GGpNenBW2fn3fD3qoKn",
+              "uptime": 0.980566,
+              "weight": 15350000000000,
+              "totalWeight": 15350000000000
+            },
+            {
+              "nodeID": "NodeID-PuYX3u6gfLje9bt6fCDFHkSwqaL8VSpv6",
+              "uptime": 0.980502,
+              "weight": 11500000000000,
+              "totalWeight": 11500000000000
+            },
+            {
+              "nodeID": "NodeID-GxUaibkyR88sErviW2WK3ukDJsT3DFpoU",
+              "uptime": 0.980597,
+              "weight": 7069420698201,
+              "totalWeight": 7069420698201
+            },
+            {
+              "nodeID": "NodeID-ChjgtCzFxwhCYQGsUzGHUUTi9nFYrLsXh",
+              "uptime": 0.979175,
+              "weight": 2300000000000,
+              "totalWeight": 2300000000000
+            },
+            {
+              "nodeID": "NodeID-ExJ8FGcRjTGHPBabqkZ3G8NgPsbhQ9EWA",
+              "uptime": 0.9791979999999999,
+              "weight": 2000000000000,
+              "totalWeight": 2000000000000
+            },
+            {
+              "nodeID": "NodeID-8Zvnq1815CaYYegXmuyBD5BVtJnurtpC2",
+              "uptime": 0.980622,
+              "weight": 2000000000000,
+              "totalWeight": 2000000000000
+            },
+            {
+              "nodeID": "NodeID-AHTFPmvMrQBt1hcoGS7HugNCuu15Q5gY6",
+              "uptime": 0.98124,
+              "weight": 2000000000000,
+              "totalWeight": 2000000000000
+            },
+            {
+              "nodeID": "NodeID-7yBDXjCcqHCnfqC8LfQ1oL9Yyx1se2Rj9",
+              "uptime": 0.9792029999999999,
+              "weight": 0,
+              "totalWeight": 0
+            }
+          ]
+        }
+      }
+    },
+    {
+      "nodeId": "NodeID-JZg54UPtzhHhXoVkX4r6WSTc74cAgdFjY",
+      "subnetId": "11111111111111111111111111111111LpoYY",
+      "transactionId": "JQ4AFHygXdkqLR1A27fXDytGFm4KpjZSW5pRdkKfKV2H6fZ8E",
+      "beneficiaries": [
+        "P-avax1hkdctdr9q03rxpnammxceml2kml2jqsrl7peq3",
+        "P-avax1jn9njzpjj4mhvcxujqmk5fp36jmtm93fv2xcce"
+      ],
+      "startTime": "2024-05-01T16:42:29.000Z",
+      "endTime": "2025-04-30T16:00:00.000Z",
+      "assetId": "FvwEAhmxKfeiG8SnEvq42hc6whRyY3EFYAvebMqDNDGCgxN5Z",
+      "stake": {
+        "fromSelf": "41474470588224",
+        "fromDelegations": "0",
+        "total": "41474470588224",
+        "networkShare": 0.0001682800956988534
+      },
+      "rewards": {
+        "fromSelf": "3117174960446",
+        "fromDelegations": "0",
+        "total": "3117174960446"
+      },
+      "delegations": {
+        "count": 0,
+        "delegationFee": 0.2,
+        "maxYield": 0.031174971694,
+        "availableDelegationCapacity": "165897882352896",
+        "totalDelegationCapacity": "207372352941120",
+        "grossDelegationReward": "0",
+        "netDelegationReward": "0"
+      },
+      "node": {
+        "avgUptime": 0.9998002857142856,
+        "responsiveness": {
+          "checksCount": 14,
+          "positiveChecksCount": 14
+        },
+        "version": "avalanchego/1.11.11",
+        "ip": "15.152.4.206",
+        "isp": "amazon.com Inc",
+        "location": {
+          "city": "Osaka",
+          "country": "Japan"
+        },
+        "uptime": {
+          "avg": 0.9998002857142856,
+          "details": [
+            {
+              "nodeID": "NodeID-FBtCkPRmkfDry8GGpNenBW2fn3fD3qoKn",
+              "uptime": 0.99992,
+              "weight": 15350000000000,
+              "totalWeight": 15350000000000
+            },
+            {
+              "nodeID": "NodeID-PuYX3u6gfLje9bt6fCDFHkSwqaL8VSpv6",
+              "uptime": 0.999924,
+              "weight": 11500000000000,
+              "totalWeight": 11500000000000
+            },
+            {
+              "nodeID": "NodeID-GxUaibkyR88sErviW2WK3ukDJsT3DFpoU",
+              "uptime": 0.999888,
+              "weight": 7069420698201,
+              "totalWeight": 7069420698201
+            },
+            {
+              "nodeID": "NodeID-CY9BmJwkVatHX86Pt3Fkxts1QoKTovyAs",
+              "uptime": 0.999652,
+              "weight": 3000000000000,
+              "totalWeight": 3000000000000
+            },
+            {
+              "nodeID": "NodeID-5uYQ6R4WF7kmGfraM9LtsUJG2CDmh78Lf",
+              "uptime": 0.998458,
+              "weight": 2400000000000,
+              "totalWeight": 2400000000000
+            },
+            {
+              "nodeID": "NodeID-5gcdejFBQ3wMPFpo7qKUKBREJ8w3PRTM1",
+              "uptime": 0.999945,
+              "weight": 2310000000000,
+              "totalWeight": 2310000000000
+            },
+            {
+              "nodeID": "NodeID-ChjgtCzFxwhCYQGsUzGHUUTi9nFYrLsXh",
+              "uptime": 0.999946,
+              "weight": 2300000000000,
+              "totalWeight": 2300000000000
+            },
+            {
+              "nodeID": "NodeID-D5aUrNtb3vKUBKYpdapiaGEaBTmUz3Jr2",
+              "uptime": 0.99994,
+              "weight": 2300000000000,
+              "totalWeight": 2300000000000
+            },
+            {
+              "nodeID": "NodeID-LFNBojkAbg1az3ys8htBJHmyQ96hYhFzP",
+              "uptime": 0.999923,
+              "weight": 2210000000000,
+              "totalWeight": 2210000000000
+            },
+            {
+              "nodeID": "NodeID-ExJ8FGcRjTGHPBabqkZ3G8NgPsbhQ9EWA",
+              "uptime": 0.999918,
+              "weight": 2000000000000,
+              "totalWeight": 2000000000000
+            },
+            {
+              "nodeID": "NodeID-8Zvnq1815CaYYegXmuyBD5BVtJnurtpC2",
+              "uptime": 0.999924,
+              "weight": 2000000000000,
+              "totalWeight": 2000000000000
+            },
+            {
+              "nodeID": "NodeID-AHTFPmvMrQBt1hcoGS7HugNCuu15Q5gY6",
+              "uptime": 0.999926,
+              "weight": 2000000000000,
+              "totalWeight": 2000000000000
+            },
+            {
+              "nodeID": "NodeID-Pe5xmD9DhTrSCDykMqFdG8CazG3QyJxos",
+              "uptime": 0.999918,
+              "weight": 0,
+              "totalWeight": 0
+            },
+            {
+              "nodeID": "NodeID-7yBDXjCcqHCnfqC8LfQ1oL9Yyx1se2Rj9",
+              "uptime": 0.999922,
+              "weight": 0,
+              "totalWeight": 0
+            }
+          ]
+        }
+      }
+    },
+    {
+      "nodeId": "NodeID-CPWtTaJjKj3uiQnNKeKVk5yKfEiE5mok8",
+      "subnetId": "11111111111111111111111111111111LpoYY",
+      "transactionId": "JSoduijuhEyMcx3GDe8L9eU59tWGCUjdfehEufuowmDhC2RY3",
+      "beneficiaries": [
+        "P-avax1v50tw9gyd0aezv2rte830sukgpwgyx7v5zssm2",
+        "P-avax1hpn635lanc3uft6kg29vd0vaj4cl4c8v5qwmj5"
+      ],
+      "startTime": "2024-06-06T01:11:25.000Z",
+      "endTime": "2024-11-03T13:00:00.000Z",
+      "assetId": "FvwEAhmxKfeiG8SnEvq42hc6whRyY3EFYAvebMqDNDGCgxN5Z",
+      "stake": {
+        "fromSelf": "2000000000000",
+        "fromDelegations": "0",
+        "total": "2000000000000",
+        "networkShare": 8.114876130408463e-06
+      },
+      "rewards": {
+        "fromSelf": "54538289573",
+        "fromDelegations": "0",
+        "total": "54538289573"
+      },
+      "delegations": {
+        "count": 0,
+        "delegationFee": 0.2,
+        "maxYield": 0.0046492204036,
+        "availableDelegationCapacity": "8000000000000",
+        "totalDelegationCapacity": "10000000000000",
+        "grossDelegationReward": "0",
+        "netDelegationReward": "0"
+      },
+      "node": {
+        "avgUptime": 0.9999227692307694,
+        "responsiveness": {
+          "checksCount": 13,
+          "positiveChecksCount": 13
+        },
+        "version": "avalanchego/1.11.11",
+        "ip": "18.181.67.245",
+        "isp": "amazon.com Inc",
+        "location": {
+          "city": "Tokyo",
+          "country": "Japan"
+        },
+        "uptime": {
+          "avg": 0.9999227692307694,
+          "details": [
+            {
+              "nodeID": "NodeID-FBtCkPRmkfDry8GGpNenBW2fn3fD3qoKn",
+              "uptime": 0.99994,
+              "weight": 15350000000000,
+              "totalWeight": 15350000000000
+            },
+            {
+              "nodeID": "NodeID-PuYX3u6gfLje9bt6fCDFHkSwqaL8VSpv6",
+              "uptime": 0.9999429999999999,
+              "weight": 11500000000000,
+              "totalWeight": 11500000000000
+            },
+            {
+              "nodeID": "NodeID-GxUaibkyR88sErviW2WK3ukDJsT3DFpoU",
+              "uptime": 0.9998950000000001,
+              "weight": 7069420698201,
+              "totalWeight": 7069420698201
+            },
+            {
+              "nodeID": "NodeID-CY9BmJwkVatHX86Pt3Fkxts1QoKTovyAs",
+              "uptime": 0.9996240000000001,
+              "weight": 3000000000000,
+              "totalWeight": 3000000000000
+            },
+            {
+              "nodeID": "NodeID-5gcdejFBQ3wMPFpo7qKUKBREJ8w3PRTM1",
+              "uptime": 0.999958,
+              "weight": 2310000000000,
+              "totalWeight": 2310000000000
+            },
+            {
+              "nodeID": "NodeID-ChjgtCzFxwhCYQGsUzGHUUTi9nFYrLsXh",
+              "uptime": 0.999971,
+              "weight": 2300000000000,
+              "totalWeight": 2300000000000
+            },
+            {
+              "nodeID": "NodeID-D5aUrNtb3vKUBKYpdapiaGEaBTmUz3Jr2",
+              "uptime": 0.99997,
+              "weight": 2300000000000,
+              "totalWeight": 2300000000000
+            },
+            {
+              "nodeID": "NodeID-LFNBojkAbg1az3ys8htBJHmyQ96hYhFzP",
+              "uptime": 0.999952,
+              "weight": 2210000000000,
+              "totalWeight": 2210000000000
+            },
+            {
+              "nodeID": "NodeID-ExJ8FGcRjTGHPBabqkZ3G8NgPsbhQ9EWA",
+              "uptime": 0.9999469999999999,
+              "weight": 2000000000000,
+              "totalWeight": 2000000000000
+            },
+            {
+              "nodeID": "NodeID-8Zvnq1815CaYYegXmuyBD5BVtJnurtpC2",
+              "uptime": 0.999946,
+              "weight": 2000000000000,
+              "totalWeight": 2000000000000
+            },
+            {
+              "nodeID": "NodeID-AHTFPmvMrQBt1hcoGS7HugNCuu15Q5gY6",
+              "uptime": 0.9999469999999999,
+              "weight": 2000000000000,
+              "totalWeight": 2000000000000
+            },
+            {
+              "nodeID": "NodeID-Pe5xmD9DhTrSCDykMqFdG8CazG3QyJxos",
+              "uptime": 0.9999410000000001,
+              "weight": 0,
+              "totalWeight": 0
+            },
+            {
+              "nodeID": "NodeID-7yBDXjCcqHCnfqC8LfQ1oL9Yyx1se2Rj9",
+              "uptime": 0.999962,
+              "weight": 0,
+              "totalWeight": 0
+            }
+          ]
+        }
+      }
+    },
+    {
+      "nodeId": "NodeID-MEnWKkj5iUC3Z2rNhKuDTm5EVDu2ZUZZo",
+      "subnetId": "11111111111111111111111111111111LpoYY",
+      "transactionId": "JU1s3ztMwV9W7mFxEQkjovzZy27TDv5GgQ4mbqpZ8bngq2N9t",
+      "beneficiaries": [
+        "P-avax13l4fu866tukfxzl3ajx0m5f4dnevmn6yl9zysr"
+      ],
+      "startTime": "2024-01-18T12:18:26.000Z",
+      "endTime": "2025-01-17T12:18:26.000Z",
+      "assetId": "FvwEAhmxKfeiG8SnEvq42hc6whRyY3EFYAvebMqDNDGCgxN5Z",
+      "stake": {
+        "fromSelf": "4890000000000",
+        "fromDelegations": "14139788747806",
+        "total": "19029788747806",
+        "networkShare": 7.721218923814323e-05
+      },
+      "rewards": {
+        "fromSelf": "375909508344",
+        "fromDelegations": "13362831103",
+        "total": "389272339447"
+      },
+      "delegations": {
+        "count": 61,
+        "delegationFee": 0.02,
+        "maxYield": 0.01869108965668,
+        "availableDelegationCapacity": "5420211252194",
+        "totalDelegationCapacity": "24450000000000",
+        "grossDelegationReward": "668141555153",
+        "netDelegationReward": "654778724050"
+      },
+      "node": {
+        "avgUptime": 0.9679239999999999,
+        "responsiveness": {
+          "checksCount": 11,
+          "positiveChecksCount": 11
+        },
+        "version": "avalanchego/1.11.2",
+        "ip": "103.160.95.252",
+        "isp": "Pt Pundi Mas Berjaya",
+        "location": {
+          "city": "Batam",
+          "country": "Indonesia"
+        },
+        "uptime": {
+          "avg": 0.9679239999999999,
+          "details": [
+            {
+              "nodeID": "NodeID-FBtCkPRmkfDry8GGpNenBW2fn3fD3qoKn",
+              "uptime": 0.967268,
+              "weight": 15350000000000,
+              "totalWeight": 15350000000000
+            },
+            {
+              "nodeID": "NodeID-PuYX3u6gfLje9bt6fCDFHkSwqaL8VSpv6",
+              "uptime": 0.967414,
+              "weight": 11500000000000,
+              "totalWeight": 11500000000000
+            },
+            {
+              "nodeID": "NodeID-GxUaibkyR88sErviW2WK3ukDJsT3DFpoU",
+              "uptime": 0.968481,
+              "weight": 7069420698201,
+              "totalWeight": 7069420698201
+            },
+            {
+              "nodeID": "NodeID-5gcdejFBQ3wMPFpo7qKUKBREJ8w3PRTM1",
+              "uptime": 0.968326,
+              "weight": 2310000000000,
+              "totalWeight": 2310000000000
+            },
+            {
+              "nodeID": "NodeID-ChjgtCzFxwhCYQGsUzGHUUTi9nFYrLsXh",
+              "uptime": 0.967413,
+              "weight": 2300000000000,
+              "totalWeight": 2300000000000
+            },
+            {
+              "nodeID": "NodeID-D5aUrNtb3vKUBKYpdapiaGEaBTmUz3Jr2",
+              "uptime": 0.967363,
+              "weight": 2300000000000,
+              "totalWeight": 2300000000000
+            },
+            {
+              "nodeID": "NodeID-LFNBojkAbg1az3ys8htBJHmyQ96hYhFzP",
+              "uptime": 0.9679000000000001,
+              "weight": 2210000000000,
+              "totalWeight": 2210000000000
+            },
+            {
+              "nodeID": "NodeID-ExJ8FGcRjTGHPBabqkZ3G8NgPsbhQ9EWA",
+              "uptime": 0.968407,
+              "weight": 2000000000000,
+              "totalWeight": 2000000000000
+            },
+            {
+              "nodeID": "NodeID-8Zvnq1815CaYYegXmuyBD5BVtJnurtpC2",
+              "uptime": 0.968607,
+              "weight": 2000000000000,
+              "totalWeight": 2000000000000
+            },
+            {
+              "nodeID": "NodeID-AHTFPmvMrQBt1hcoGS7HugNCuu15Q5gY6",
+              "uptime": 0.968521,
+              "weight": 2000000000000,
+              "totalWeight": 2000000000000
+            },
+            {
+              "nodeID": "NodeID-7yBDXjCcqHCnfqC8LfQ1oL9Yyx1se2Rj9",
+              "uptime": 0.967464,
+              "weight": 0,
+              "totalWeight": 0
+            }
+          ]
+        }
+      }
+    },
+    {
+      "nodeId": "NodeID-rU9hLEWJCxRksiPuEYm2qqof6uwWEDeo",
+      "subnetId": "11111111111111111111111111111111LpoYY",
+      "transactionId": "JUEiL6EL69apavvaARXsg4i9AmuPx2CwRxSfN9raZ1nDuNsRM",
+      "beneficiaries": [
+        "P-avax1kksykr4mwfx506c9n7nye5kzutnkcllxncxuvv",
+        "P-avax1xmxgxjxxtdkhse9srje5pfapmkshlv62mxkyy3"
+      ],
+      "startTime": "2024-08-23T22:04:18.000Z",
+      "endTime": "2024-11-22T01:00:00.000Z",
+      "assetId": "FvwEAhmxKfeiG8SnEvq42hc6whRyY3EFYAvebMqDNDGCgxN5Z",
+      "stake": {
+        "fromSelf": "2000000000000",
+        "fromDelegations": "0",
+        "total": "2000000000000",
+        "networkShare": 8.114876130408463e-06
+      },
+      "rewards": {
+        "fromSelf": "31235839252",
+        "fromDelegations": "0",
+        "total": "31235839252"
+      },
+      "delegations": {
+        "count": 0,
+        "delegationFee": 0.2,
+        "maxYield": 0.0071920093648,
+        "availableDelegationCapacity": "8000000000000",
+        "totalDelegationCapacity": "10000000000000",
+        "grossDelegationReward": "0",
+        "netDelegationReward": "0"
+      },
+      "node": {
+        "avgUptime": 0.9999208461538462,
+        "responsiveness": {
+          "checksCount": 13,
+          "positiveChecksCount": 13
+        },
+        "version": "avalanchego/1.11.11",
+        "ip": "34.250.193.159",
+        "isp": "amazon.com Inc",
+        "location": {
+          "city": "Dublin",
+          "country": "Ireland"
+        },
+        "uptime": {
+          "avg": 0.9999208461538462,
+          "details": [
+            {
+              "nodeID": "NodeID-FBtCkPRmkfDry8GGpNenBW2fn3fD3qoKn",
+              "uptime": 0.999919,
+              "weight": 15350000000000,
+              "totalWeight": 15350000000000
+            },
+            {
+              "nodeID": "NodeID-PuYX3u6gfLje9bt6fCDFHkSwqaL8VSpv6",
+              "uptime": 0.9999020000000001,
+              "weight": 11500000000000,
+              "totalWeight": 11500000000000
+            },
+            {
+              "nodeID": "NodeID-GxUaibkyR88sErviW2WK3ukDJsT3DFpoU",
+              "uptime": 0.99992,
+              "weight": 7069420698201,
+              "totalWeight": 7069420698201
+            },
+            {
+              "nodeID": "NodeID-CY9BmJwkVatHX86Pt3Fkxts1QoKTovyAs",
+              "uptime": 0.999922,
+              "weight": 3000000000000,
+              "totalWeight": 3000000000000
+            },
+            {
+              "nodeID": "NodeID-5gcdejFBQ3wMPFpo7qKUKBREJ8w3PRTM1",
+              "uptime": 0.999945,
+              "weight": 2310000000000,
+              "totalWeight": 2310000000000
+            },
+            {
+              "nodeID": "NodeID-ChjgtCzFxwhCYQGsUzGHUUTi9nFYrLsXh",
+              "uptime": 0.999958,
+              "weight": 2300000000000,
+              "totalWeight": 2300000000000
+            },
+            {
+              "nodeID": "NodeID-D5aUrNtb3vKUBKYpdapiaGEaBTmUz3Jr2",
+              "uptime": 0.999954,
+              "weight": 2300000000000,
+              "totalWeight": 2300000000000
+            },
+            {
+              "nodeID": "NodeID-LFNBojkAbg1az3ys8htBJHmyQ96hYhFzP",
+              "uptime": 0.999958,
+              "weight": 2210000000000,
+              "totalWeight": 2210000000000
+            },
+            {
+              "nodeID": "NodeID-ExJ8FGcRjTGHPBabqkZ3G8NgPsbhQ9EWA",
+              "uptime": 0.999889,
+              "weight": 2000000000000,
+              "totalWeight": 2000000000000
+            },
+            {
+              "nodeID": "NodeID-8Zvnq1815CaYYegXmuyBD5BVtJnurtpC2",
+              "uptime": 0.999877,
+              "weight": 2000000000000,
+              "totalWeight": 2000000000000
+            },
+            {
+              "nodeID": "NodeID-AHTFPmvMrQBt1hcoGS7HugNCuu15Q5gY6",
+              "uptime": 0.999926,
+              "weight": 2000000000000,
+              "totalWeight": 2000000000000
+            },
+            {
+              "nodeID": "NodeID-Pe5xmD9DhTrSCDykMqFdG8CazG3QyJxos",
+              "uptime": 0.999917,
+              "weight": 0,
+              "totalWeight": 0
+            },
+            {
+              "nodeID": "NodeID-7yBDXjCcqHCnfqC8LfQ1oL9Yyx1se2Rj9",
+              "uptime": 0.999884,
+              "weight": 0,
+              "totalWeight": 0
+            }
+          ]
+        }
+      }
+    },
+    {
+      "nodeId": "NodeID-aFRSyUykQjScZiWASVqmdTGzBfV9KKj1",
+      "subnetId": "11111111111111111111111111111111LpoYY",
+      "transactionId": "JWC2ANaLKXoKMccC48fEi1EgZNiLhYy3oABhzSEKZz3d9XpuF",
+      "beneficiaries": [
+        "P-avax1lt7raya5vzxs9ur8j0qwamjz5ek72e0ujpmwnx",
+        "P-avax1zhar9az59f82twmw33elgwfxh50td3mhq79ew9"
+      ],
+      "startTime": "2024-05-02T18:08:04.000Z",
+      "endTime": "2025-04-23T22:00:00.000Z",
+      "assetId": "FvwEAhmxKfeiG8SnEvq42hc6whRyY3EFYAvebMqDNDGCgxN5Z",
+      "stake": {
+        "fromSelf": "2000000000000",
+        "fromDelegations": "0",
+        "total": "2000000000000",
+        "networkShare": 8.114876130408463e-06
+      },
+      "rewards": {
+        "fromSelf": "146248470374",
+        "fromDelegations": "0",
+        "total": "146248470374"
+      },
+      "delegations": {
+        "count": 0,
+        "delegationFee": 0.2,
+        "maxYield": 0.0300866750656,
+        "availableDelegationCapacity": "8000000000000",
+        "totalDelegationCapacity": "10000000000000",
+        "grossDelegationReward": "0",
+        "netDelegationReward": "0"
+      },
+      "node": {
+        "avgUptime": 0.9996770714285715,
+        "responsiveness": {
+          "checksCount": 14,
+          "positiveChecksCount": 14
+        },
+        "version": "avalanchego/1.11.11",
+        "ip": "52.76.126.147",
+        "isp": "amazon.com Inc",
+        "location": {
+          "city": "Singapore",
+          "country": "Singapore"
+        },
+        "uptime": {
+          "avg": 0.9996770714285715,
+          "details": [
+            {
+              "nodeID": "NodeID-FBtCkPRmkfDry8GGpNenBW2fn3fD3qoKn",
+              "uptime": 0.9997849999999999,
+              "weight": 15350000000000,
+              "totalWeight": 15350000000000
+            },
+            {
+              "nodeID": "NodeID-PuYX3u6gfLje9bt6fCDFHkSwqaL8VSpv6",
+              "uptime": 0.99979,
+              "weight": 11500000000000,
+              "totalWeight": 11500000000000
+            },
+            {
+              "nodeID": "NodeID-GxUaibkyR88sErviW2WK3ukDJsT3DFpoU",
+              "uptime": 0.9997499999999999,
+              "weight": 7069420698201,
+              "totalWeight": 7069420698201
+            },
+            {
+              "nodeID": "NodeID-CY9BmJwkVatHX86Pt3Fkxts1QoKTovyAs",
+              "uptime": 0.999713,
+              "weight": 3000000000000,
+              "totalWeight": 3000000000000
+            },
+            {
+              "nodeID": "NodeID-5uYQ6R4WF7kmGfraM9LtsUJG2CDmh78Lf",
+              "uptime": 0.998437,
+              "weight": 2400000000000,
+              "totalWeight": 2400000000000
+            },
+            {
+              "nodeID": "NodeID-5gcdejFBQ3wMPFpo7qKUKBREJ8w3PRTM1",
+              "uptime": 0.99979,
+              "weight": 2310000000000,
+              "totalWeight": 2310000000000
+            },
+            {
+              "nodeID": "NodeID-ChjgtCzFxwhCYQGsUzGHUUTi9nFYrLsXh",
+              "uptime": 0.999787,
+              "weight": 2300000000000,
+              "totalWeight": 2300000000000
+            },
+            {
+              "nodeID": "NodeID-D5aUrNtb3vKUBKYpdapiaGEaBTmUz3Jr2",
+              "uptime": 0.999733,
+              "weight": 2300000000000,
+              "totalWeight": 2300000000000
+            },
+            {
+              "nodeID": "NodeID-LFNBojkAbg1az3ys8htBJHmyQ96hYhFzP",
+              "uptime": 0.99973,
+              "weight": 2210000000000,
+              "totalWeight": 2210000000000
+            },
+            {
+              "nodeID": "NodeID-ExJ8FGcRjTGHPBabqkZ3G8NgPsbhQ9EWA",
+              "uptime": 0.999794,
+              "weight": 2000000000000,
+              "totalWeight": 2000000000000
+            },
+            {
+              "nodeID": "NodeID-8Zvnq1815CaYYegXmuyBD5BVtJnurtpC2",
+              "uptime": 0.999795,
+              "weight": 2000000000000,
+              "totalWeight": 2000000000000
+            },
+            {
+              "nodeID": "NodeID-AHTFPmvMrQBt1hcoGS7HugNCuu15Q5gY6",
+              "uptime": 0.9997969999999999,
+              "weight": 2000000000000,
+              "totalWeight": 2000000000000
+            },
+            {
+              "nodeID": "NodeID-Pe5xmD9DhTrSCDykMqFdG8CazG3QyJxos",
+              "uptime": 0.999791,
+              "weight": 0,
+              "totalWeight": 0
+            },
+            {
+              "nodeID": "NodeID-7yBDXjCcqHCnfqC8LfQ1oL9Yyx1se2Rj9",
+              "uptime": 0.999787,
+              "weight": 0,
+              "totalWeight": 0
+            }
+          ]
+        }
+      }
+    },
+    {
+      "nodeId": "NodeID-ChjgtCzFxwhCYQGsUzGHUUTi9nFYrLsXh",
+      "subnetId": "11111111111111111111111111111111LpoYY",
+      "transactionId": "JXK25zJ2w2P8aREerFPMhNqRJ7mSmTo3TUKoFbtKfLSuXBw2f",
+      "beneficiaries": [
+        "P-avax1dl8fkql0avxmehvgpcfnt5gvall2qxl4m8vtxn"
+      ],
+      "startTime": "2024-04-28T12:33:41.000Z",
+      "endTime": "2025-04-22T13:03:21.000Z",
+      "assetId": "FvwEAhmxKfeiG8SnEvq42hc6whRyY3EFYAvebMqDNDGCgxN5Z",
+      "stake": {
+        "fromSelf": "2300000000000",
+        "fromDelegations": "8697698880004",
+        "total": "10997698880004",
+        "networkShare": 4.462248206538217e-05
+      },
+      "rewards": {
+        "fromSelf": "170872408761",
+        "fromDelegations": "7538257237",
+        "total": "178410665998"
+      },
+      "delegations": {
+        "count": 44,
+        "delegationFee": 0.02,
+        "maxYield": 0.036586047069669995,
+        "availableDelegationCapacity": "502301119996",
+        "totalDelegationCapacity": "11500000000000",
+        "grossDelegationReward": "376912861884",
+        "netDelegationReward": "369374604647"
+      },
+      "node": {
+        "avgUptime": 0.9949427,
+        "responsiveness": {
+          "checksCount": 10,
+          "positiveChecksCount": 10
+        },
+        "version": "avalanchego/1.11.11",
+        "ip": "159.223.117.27",
+        "isp": "Digitalocean LLC",
+        "location": {
+          "city": "Manhattan",
+          "country": "United States"
+        },
+        "uptime": {
+          "avg": 0.9949427,
+          "details": [
+            {
+              "nodeID": "NodeID-FBtCkPRmkfDry8GGpNenBW2fn3fD3qoKn",
+              "uptime": 0.99507,
+              "weight": 15350000000000,
+              "totalWeight": 15350000000000
+            },
+            {
+              "nodeID": "NodeID-PuYX3u6gfLje9bt6fCDFHkSwqaL8VSpv6",
+              "uptime": 0.9950920000000001,
+              "weight": 11500000000000,
+              "totalWeight": 11500000000000
+            },
+            {
+              "nodeID": "NodeID-GxUaibkyR88sErviW2WK3ukDJsT3DFpoU",
+              "uptime": 0.9951300000000001,
+              "weight": 7069420698201,
+              "totalWeight": 7069420698201
+            },
+            {
+              "nodeID": "NodeID-CY9BmJwkVatHX86Pt3Fkxts1QoKTovyAs",
+              "uptime": 0.9950610000000001,
+              "weight": 3000000000000,
+              "totalWeight": 3000000000000
+            },
+            {
+              "nodeID": "NodeID-5uYQ6R4WF7kmGfraM9LtsUJG2CDmh78Lf",
+              "uptime": 0.9936790000000001,
+              "weight": 2400000000000,
+              "totalWeight": 2400000000000
+            },
+            {
+              "nodeID": "NodeID-ExJ8FGcRjTGHPBabqkZ3G8NgPsbhQ9EWA",
+              "uptime": 0.995093,
+              "weight": 2000000000000,
+              "totalWeight": 2000000000000
+            },
+            {
+              "nodeID": "NodeID-8Zvnq1815CaYYegXmuyBD5BVtJnurtpC2",
+              "uptime": 0.995137,
+              "weight": 2000000000000,
+              "totalWeight": 2000000000000
+            },
+            {
+              "nodeID": "NodeID-AHTFPmvMrQBt1hcoGS7HugNCuu15Q5gY6",
+              "uptime": 0.9950709999999999,
+              "weight": 2000000000000,
+              "totalWeight": 2000000000000
+            },
+            {
+              "nodeID": "NodeID-Pe5xmD9DhTrSCDykMqFdG8CazG3QyJxos",
+              "uptime": 0.995056,
+              "weight": 0,
+              "totalWeight": 0
+            },
+            {
+              "nodeID": "NodeID-7yBDXjCcqHCnfqC8LfQ1oL9Yyx1se2Rj9",
+              "uptime": 0.995038,
+              "weight": 0,
+              "totalWeight": 0
+            }
+          ]
+        }
+      }
+    },
+    {
+      "nodeId": "NodeID-5PeQVPLrJH9xiSQZ8hcmeXWtUzhcArEhQ",
+      "subnetId": "11111111111111111111111111111111LpoYY",
+      "transactionId": "Jfog6WHgvpW9uZpJTFmYSbLvy9hkLu9WNkHttNQ9y546qiW4c",
+      "beneficiaries": [
+        "P-avax1c0x04cft40jzw4pvqafnt0kfjxerhey96l7s75"
+      ],
+      "startTime": "2024-09-10T19:00:09.000Z",
+      "endTime": "2024-12-10T20:01:57.000Z",
+      "assetId": "FvwEAhmxKfeiG8SnEvq42hc6whRyY3EFYAvebMqDNDGCgxN5Z",
+      "stake": {
+        "fromSelf": "2235700016424",
+        "fromDelegations": "8921535300788",
+        "total": "11157235317212",
+        "networkShare": 4.526979127849697e-05
+      },
+      "rewards": {
+        "fromSelf": "35189486630",
+        "fromDelegations": "1001617369",
+        "total": "36191103999"
+      },
+      "delegations": {
+        "count": 25,
+        "delegationFee": 0.02,
+        "maxYield": 0.01203614845181,
+        "availableDelegationCapacity": "21264764908",
+        "totalDelegationCapacity": "11178500082120",
+        "grossDelegationReward": "50080868498",
+        "netDelegationReward": "49079251129"
+      },
+      "node": {
+        "avgUptime": 0.9999957857142858,
+        "responsiveness": {
+          "checksCount": 14,
+          "positiveChecksCount": 14
+        },
+        "version": "avalanchego/1.11.11",
+        "ip": "66.70.179.27",
+        "isp": "Ovh Sas",
+        "location": {
+          "city": "Montr\u00e9al",
+          "country": "Canada"
+        },
+        "uptime": {
+          "avg": 0.9999957857142858,
+          "details": [
+            {
+              "nodeID": "NodeID-FBtCkPRmkfDry8GGpNenBW2fn3fD3qoKn",
+              "uptime": 1,
+              "weight": 15350000000000,
+              "totalWeight": 15350000000000
+            },
+            {
+              "nodeID": "NodeID-PuYX3u6gfLje9bt6fCDFHkSwqaL8VSpv6",
+              "uptime": 1,
+              "weight": 11500000000000,
+              "totalWeight": 11500000000000
+            },
+            {
+              "nodeID": "NodeID-GxUaibkyR88sErviW2WK3ukDJsT3DFpoU",
+              "uptime": 1,
+              "weight": 7069420698201,
+              "totalWeight": 7069420698201
+            },
+            {
+              "nodeID": "NodeID-CY9BmJwkVatHX86Pt3Fkxts1QoKTovyAs",
+              "uptime": 0.999978,
+              "weight": 3000000000000,
+              "totalWeight": 3000000000000
+            },
+            {
+              "nodeID": "NodeID-5uYQ6R4WF7kmGfraM9LtsUJG2CDmh78Lf",
+              "uptime": 0.999999,
+              "weight": 2400000000000,
+              "totalWeight": 2400000000000
+            },
+            {
+              "nodeID": "NodeID-5gcdejFBQ3wMPFpo7qKUKBREJ8w3PRTM1",
+              "uptime": 0.9999800000000001,
+              "weight": 2310000000000,
+              "totalWeight": 2310000000000
+            },
+            {
+              "nodeID": "NodeID-ChjgtCzFxwhCYQGsUzGHUUTi9nFYrLsXh",
+              "uptime": 1,
+              "weight": 2300000000000,
+              "totalWeight": 2300000000000
+            },
+            {
+              "nodeID": "NodeID-D5aUrNtb3vKUBKYpdapiaGEaBTmUz3Jr2",
+              "uptime": 1,
+              "weight": 2300000000000,
+              "totalWeight": 2300000000000
+            },
+            {
+              "nodeID": "NodeID-LFNBojkAbg1az3ys8htBJHmyQ96hYhFzP",
+              "uptime": 1,
+              "weight": 2210000000000,
+              "totalWeight": 2210000000000
+            },
+            {
+              "nodeID": "NodeID-ExJ8FGcRjTGHPBabqkZ3G8NgPsbhQ9EWA",
+              "uptime": 1,
+              "weight": 2000000000000,
+              "totalWeight": 2000000000000
+            },
+            {
+              "nodeID": "NodeID-8Zvnq1815CaYYegXmuyBD5BVtJnurtpC2",
+              "uptime": 0.9999850000000001,
+              "weight": 2000000000000,
+              "totalWeight": 2000000000000
+            },
+            {
+              "nodeID": "NodeID-AHTFPmvMrQBt1hcoGS7HugNCuu15Q5gY6",
+              "uptime": 1,
+              "weight": 2000000000000,
+              "totalWeight": 2000000000000
+            },
+            {
+              "nodeID": "NodeID-Pe5xmD9DhTrSCDykMqFdG8CazG3QyJxos",
+              "uptime": 1,
+              "weight": 0,
+              "totalWeight": 0
+            },
+            {
+              "nodeID": "NodeID-7yBDXjCcqHCnfqC8LfQ1oL9Yyx1se2Rj9",
+              "uptime": 0.999999,
+              "weight": 0,
+              "totalWeight": 0
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "link": {
+    "next": "/v2/network/mainnet/staking/validations?status=active&next=62044d3426fd8fe4f5ce726eabab3cde893f36a8828fc41ba826a5c2bebcffe225fb100e448ee41f0be2599a67edda1c138bb4fe451f1c1c304abf7c1f3dca581ab9a6437092d114bc515da17e",
+    "nextToken": "62044d3426fd8fe4f5ce726eabab3cde893f36a8828fc41ba826a5c2bebcffe225fb100e448ee41f0be2599a67edda1c138bb4fe451f1c1c304abf7c1f3dca581ab9a6437092d114bc515da17e"
+  }
+}

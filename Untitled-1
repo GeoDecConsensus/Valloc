@@ -1,0 +1,116 @@
+{
+    "validator": {
+        "activatedStake": 0,
+        "stakePercentage": 0,
+        "commission": 0,
+        "epochCredits": [
+            0
+        ],
+        "epochVoteAccount": true,
+        "lastVote": 0,
+        "nodePubkey": "string",
+        "rootSlot": 0,
+        "votePubkey": "string",
+        "blockProduction": {
+            "leaderSlots": 0,
+            "skippedSlots": 0
+        },
+        "delegatingStakeAccounts": [
+            {
+                "pubkey": "string",
+                "lamports": 0,
+                "data": {
+                    "state": 0,
+                    "meta": {
+                        "rent_exempt_reserve": 0,
+                        "authorized": {
+                            "staker": "string",
+                            "withdrawer": "string"
+                        }
+                    },
+                    "lockup": {
+                        "unix_timestamp": 0,
+                        "epoch": 0,
+                        "custodian": "string"
+                    },
+                    "stake": {
+                        "delegation": {
+                            "voter_pubkey": "string",
+                            "stake": 0,
+                            "activation_epoch": 0,
+                            "deactivation_epoch": 0,
+                            "warmup_cooldown_rate": 0,
+                            "validatorInfo": {
+                                "name": "string",
+                                "image": "string",
+                                "website": "string",
+                                "nodePubkey": "string"
+                            }
+                        },
+                        "credits_observed": 0
+                    }
+                }
+            }
+        ],
+        "delegatorCount": 0,
+        "location": {
+            "range": [
+                0
+            ],
+            "country": "string",
+            "region": "string",
+            "eu": "string",
+            "timezone": "string",
+            "city": "string",
+            "ll": [
+                0
+            ],
+            "metro": 0,
+            "area": 0
+        },
+        "moniker": "string",
+        "website": "string",
+        "pictureURL": "string",
+        "version": "string",
+        "details": "string",
+        "asn": {
+            "code": "string",
+            "organization": "string"
+        }
+    },
+    "slots": [
+        [
+            {
+                "relativeSlot": 0,
+                "absoluteSlot": 0,
+                "confirmedBlock": true
+            }
+        ]
+    ],
+    "historic": [
+        {
+            "stake": 0,
+            "delegators": 0,
+            "timestamp": "string"
+        }
+    ],
+    "latestBlocks": [
+        {
+            "blocknumber": 0,
+            "blocktime": {
+                "absolute": 0,
+                "relative": 0
+            },
+            "metrics": {
+                "txcount": 0,
+                "failedtxs": 0,
+                "totalfees": 0,
+                "instructions": 0,
+                "sucessfultxs": 0,
+                "innerinstructions": 0,
+                "totalvaluemoved": 0
+            },
+            "proposer": "string"
+        }
+    ]
+}
