@@ -1,3 +1,4 @@
+import csv
 import json
 import os
 import time
@@ -21,10 +22,11 @@ START_TIME = time.time()
 
 # Filenames
 VALIDATORS_JSONL = "solana.jsonl"
+VALIDATORS_JSON = "solana.json"
+CSV_FILE = "solana.csv"
 ERROR_LOG = "error_log.txt"
 
 # ------------------------------ Functions ------------------------------ #
-
 
 def rate_limit():
     """
@@ -47,7 +49,7 @@ def rate_limit():
 
 def initialize_files():
     """
-    Initializes the JSON Lines and error log files if they don't exist.
+    Initializes the JSON Lines, JSON, and error log files if they don't exist.
     Creates empty files to prepare for data appending.
     """
     if not os.path.isfile(VALIDATORS_JSONL):
@@ -56,6 +58,9 @@ def initialize_files():
     if not os.path.isfile(ERROR_LOG):
         open(ERROR_LOG, "w").close()
         print(f"Created {ERROR_LOG}.")
+    if not os.path.isfile(VALIDATORS_JSON):
+        open(VALIDATORS_JSON, "w").close()
+        print(f"Created {VALIDATORS_JSON}.")
 
 
 def append_jsonl(filename: str, data: dict):
@@ -131,7 +136,6 @@ def get_validator_details(vote_pubkey: str) -> dict:
         response.raise_for_status()
         validator_data = response.json()
         print(f"Successfully fetched details for validator {vote_pubkey}.")
-        # print(f"Response Data: {json.dumps(validator_data, indent=2)}")  # Pretty-print JSON
         return validator_data
     except requests.exceptions.RequestException as e:
         error_message = f"Error fetching details for validator {vote_pubkey}: {e}"
@@ -157,7 +161,6 @@ def process_validator_data(validator_data: dict) -> dict:
         if isinstance(delegating_stakes, list):
             validator["delegatingStakeAccounts"] = len(delegating_stakes)
         else:
-            # In case 'delegatingStakeAccounts' is not a list, handle gracefully
             validator["delegatingStakeAccounts"] = 0
         return validator
     except KeyError as e:
@@ -167,8 +170,50 @@ def process_validator_data(validator_data: dict) -> dict:
         return {}
 
 
-# ------------------------------ Main Execution ------------------------------ #
+def json_to_csv(json_file_path, output_csv_path):
+    """
+    Converts JSON data to CSV format.
 
+    Parameters:
+        json_file_path (str): Path to the JSON file.
+        output_csv_path (str): Path to the output CSV file.
+    """
+    try:
+        with open(json_file_path, "r") as json_file:
+            data = [json.loads(line) for line in json_file]
+
+        with open(output_csv_path, mode="w", newline="") as csv_file:
+            fieldnames = ["uuid", "latitude", "longitude", "stake_weight"]
+            writer = csv.DictWriter(csv_file, fieldnames=fieldnames)
+            writer.writeheader()
+
+            for item in data:
+                try:
+                    moniker = item.get("nodePubkey", "N/A")  # UUID from moniker
+                    location = item.get("location", {})
+                    if location is None:
+                        location = {"ll": [0, 0]}
+                    latitude, longitude = location.get("ll", [0, 0])  # Latitude and Longitude from location.ll
+                    activated_stake = item.get("activatedStake", 0)  # Stake weight from activatedStake
+
+                    writer.writerow({
+                        "uuid": moniker,
+                        "latitude": latitude,
+                        "longitude": longitude,
+                        "stake_weight": activated_stake
+                    })
+                except Exception as e:
+                    print(f"Error processing item: {item}")
+                    print(f"Error: {e}")
+
+        print(f"Data successfully written to {output_csv_path}")
+    except Exception as e:
+        error_message = f"Error converting JSON to CSV: {e}"
+        print(error_message)
+        log_error(error_message)
+
+
+# ------------------------------ Main Execution ------------------------------ #
 
 def main():
     """
@@ -205,13 +250,16 @@ def main():
             # Append the processed validator data to the JSON Lines file
             append_jsonl(VALIDATORS_JSONL, processed_validator)
 
-        # # Handle rate limiting
-        # rate_limit()
+        # Handle rate limiting
+        rate_limit()
 
     print("\nAll data has been processed and saved.")
     print(f"Check {VALIDATORS_JSONL} for the processed JSON responses.")
     if os.path.isfile(ERROR_LOG) and os.path.getsize(ERROR_LOG) > 0:
         print(f"Check {ERROR_LOG} for any errors encountered during the process.")
+
+    # Convert JSON to CSV
+    json_to_csv(VALIDATORS_JSONL, CSV_FILE)
 
 
 if __name__ == "__main__":
